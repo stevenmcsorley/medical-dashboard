@@ -1,0 +1,9 @@
+.header {
+    background-color: var(--color-neutral-white);
+    height: var(--header-height);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 var(--spacing-m);
+    box-sizing: border-box;
+  }

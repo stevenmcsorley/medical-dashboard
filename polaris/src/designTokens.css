@@ -1,0 +1,78 @@
+:root {
+  /* Colors */
+  --color-red-dark: #b22222;
+  --color-red-light: #ff7f7f;
+  --color-neutral-white: #ffffff;
+  --color-neutral-background: #f0f0f0;
+  --color-neutral-black: #000000;
+  --color-neutral-divider: #cccccc;
+  --color-neutral-gray: #808080;
+  --color-neutral-gray-dark: #505050;
+  --color-neutral-gray-light: #b3b3b3;
+  --color-neutral-gray-lighter: #d9d9d9;
+  --color-yellow-dark: #ffaa00;
+  --color-yellow-default: #ffcc00;
+  --color-yellow-light: #ffe680;
+  --color-green-dark: #008000;
+  --color-green-default: #00cc00;
+  --color-green-light: #80ff80;
+  --color-cyan-dark: #008080;
+  --color-cyan-default: #0DA5BA;
+  --color-cyan-light: #80ffff;
+  --color-green-brand: #13A89E;
+  
+  /* Typography */
+  --font-family: 'Lato', 'Helvetica', 'Arial', sans-serif;
+  --body1-font-size: clamp(1rem, 2vw, 1.5rem);
+  --body1-font-weight: 400;
+  --body2-font-weight: 600;
+  --body1-line-height: 1.5;
+  --h1-font-size: clamp(2rem, 8vw, 3rem);
+  --h1-font-weight: 700;
+  --h1-color: var(--color-neutral-black);
+  --h2-font-size: clamp(1.8rem, 6vw, 2.5rem);
+  --h2-font-weight: 600;
+  --h2-color: var(--color-neutral-gray-dark);
+  --h3-font-size: clamp(1.6rem, 5vw, 2rem);
+  --h3-font-weight: 600;
+  --h3-color: var(--color-neutral-gray-dark);
+  --h4-font-size: clamp(1.4rem, 4vw, 1.8rem);
+  --h4-font-weight: 600;
+  --h4-color: var(--color-neutral-gray-dark);
+  --h5-font-size: clamp(1.2rem, 3vw, 1.6rem);
+  --h5-font-weight: 600;
+  --h5-color: var(--color-neutral-gray-dark);
+  --h6-font-size: clamp(1rem, 2vw, 1.4rem);
+  --h6-font-weight: 600;
+  --h6-color: var(--color-neutral-gray-dark);
+  
+  /* Spacing */
+  --spacing-xs: calc(1rem * 0.25);
+  --spacing-s: calc(1rem * 0.5);
+  --spacing-m: calc(1rem * 1);
+  --spacing-l: calc(1rem * 1.5);
+  --spacing-xl: calc(1rem * 2);
+  --spacing-xxl: calc(1rem * 2.5);
+  
+  /* Breakpoints */
+  --breakpoint-xs: 0px;
+  --breakpoint-sm: calc(25rem);
+  --breakpoint-md: calc(40rem);
+  --breakpoint-lg: calc(60rem);
+  --breakpoint-xl: calc(80rem);
+  
+  /* Borders */
+  --border-radius-default: 4px;
+  --border-radius-round: 50%;
+  --border-radius-badges: 100vh;
+  --border-default: 1px;
+  
+  /* Shadows */
+  --shadow-default: 0px 2px 1px -1px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 1px 3px 0px rgba(0,0,0,0.12);
+  --box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  
+  /* Sizes */
+  --header-height: clamp(3rem, 8vw, 5rem);
+
+  
+}

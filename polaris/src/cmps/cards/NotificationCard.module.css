@@ -1,0 +1,64 @@
+.notificationCard {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1rem;
+    background-color: var(--color-neutral-white);
+    color: var(--color-neutral-gray-dark);
+    text-decoration: none;
+    border-bottom: var(--border-default) solid var(--color-neutral-gray-lighter);
+    transition: background-color 0.3s ease;
+  
+    &:hover {
+      background-color: var(--color-green-brand);
+      color: var(--color-neutral-white);
+    }
+  }
+  
+  .notificationContent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .contentWrapper {
+    display: flex;
+    flex-direction: column;
+    padding-left: 16px;
+  }
+  
+  .timeData {
+    position: relative;
+    font-weight: normal;
+  }
+
+  .timeData::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: -16px;
+    transform: translateY(-50%);
+    width: 8px;
+    height: 8px;
+    background-color: var(--color-green-brand);
+    border-radius: 50%;
+  }
+  
+  .title {
+    margin-top: 0.5rem;
+    font-size: var(--body-font-size);
+    font-weight: bold;
+  }
+  
+  .subtitle {
+    margin-top: 0.3rem;
+    color: var(--color-neutral-gray-light);
+  }
+  
+  .icon {
+    margin-left: 0.5rem;
+    color: var(--color-green-brand);
+  }
+  

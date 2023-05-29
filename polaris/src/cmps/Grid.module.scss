@@ -1,0 +1,26 @@
+
+.grid {
+  display: grid;
+  grid-template-rows: auto;
+  width: 100%;
+}
+
+$breakpoints: (
+  "xs": 0px,
+  "sm": calc(25rem),
+  "md": calc(40rem),
+  "lg": calc(60rem),
+  "xl": calc(80rem)
+);
+
+
+// Loop through each breakpoint and generate classes
+@each $breakpoint, $breakpoint-value in $breakpoints {
+  @for $i from 1 through 12 {
+    @media (min-width: $breakpoint-value) {
+      .col-#{$breakpoint}-#{$i} {
+        grid-column: span $i;
+      }
+    }
+  }
+}

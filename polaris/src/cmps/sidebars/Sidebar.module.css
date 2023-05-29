@@ -1,0 +1,21 @@
+.sidebar {
+    background-color: var(--color-neutral-white);
+    padding: var(--spacing-m);
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    border-right: var(--border-default) solid var(--color-neutral-gray-lighter);
+  }
+  
+  @media (min-width: var(--breakpoint-md)) {
+    .sidebar {
+      width: 100%;
+    }
+  }
+  
+  @media (min-width: var(--breakpoint-lg)) {
+    .sidebar {
+      width: 100%;
+    }
+  }
+  

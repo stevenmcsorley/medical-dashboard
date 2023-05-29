@@ -1,0 +1,2504 @@
+{
+  "doctors": [
+    {
+      "id": "doctor1",
+      "firstName": "Dr. Noah",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "Gastroenterologist",
+      "phone": "+44 839560 677042",
+      "email": "dr. noah.davis@example.com",
+      "clinicId": "clinic108"
+    },
+    {
+      "id": "doctor2",
+      "firstName": "Dr. Mia",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Dentist",
+      "phone": "+44 169000 261251",
+      "email": "dr. mia.garcia@example.com",
+      "clinicId": "clinic111"
+    },
+    {
+      "id": "doctor3",
+      "firstName": "Dr. Mia",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Endocrinologist",
+      "phone": "+44 700202 933508",
+      "email": "dr. mia.brown@example.com",
+      "clinicId": "clinic13"
+    },
+    {
+      "id": "doctor4",
+      "firstName": "Dr. Sophia",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Ophthalmologist",
+      "phone": "+44 563725 453142",
+      "email": "dr. sophia.garcia@example.com",
+      "clinicId": "clinic104"
+    },
+    {
+      "id": "doctor5",
+      "firstName": "Dr. Mia",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Cardiologist",
+      "phone": "+44 129583 231741",
+      "email": "dr. mia.hall@example.com",
+      "clinicId": "clinic115"
+    },
+    {
+      "id": "doctor6",
+      "firstName": "Dr. Emma",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Pediatrician",
+      "phone": "+44 679175 394943",
+      "email": "dr. emma.garcia@example.com",
+      "clinicId": "clinic20"
+    },
+    {
+      "id": "doctor7",
+      "firstName": "Dr. Sophia",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Endocrinologist",
+      "phone": "+44 922692 267783",
+      "email": "dr. sophia.brown@example.com",
+      "clinicId": "clinic82"
+    },
+    {
+      "id": "doctor8",
+      "firstName": "Dr. Mia",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Cardiologist",
+      "phone": "+44 265378 896705",
+      "email": "dr. mia.garcia@example.com",
+      "clinicId": "clinic25"
+    },
+    {
+      "id": "doctor9",
+      "firstName": "Dr. Noah",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Gastroenterologist",
+      "phone": "+44 362034 831479",
+      "email": "dr. noah.anderson@example.com",
+      "clinicId": "clinic12"
+    },
+    {
+      "id": "doctor10",
+      "firstName": "Dr. Sophia",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "Allergist",
+      "phone": "+44 535899 996569",
+      "email": "dr. sophia.davis@example.com",
+      "clinicId": "clinic15"
+    },
+    {
+      "id": "doctor11",
+      "firstName": "Dr. Sophia",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "Allergist",
+      "phone": "+44 975237 801670",
+      "email": "dr. sophia.brown@example.com",
+      "clinicId": "clinic96"
+    },
+    {
+      "id": "doctor12",
+      "firstName": "Dr. Noah",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Gynecologist",
+      "phone": "+44 771576 214041",
+      "email": "dr. noah.anderson@example.com",
+      "clinicId": "clinic100"
+    },
+    {
+      "id": "doctor13",
+      "firstName": "Dr. Noah",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Pediatrician",
+      "phone": "+44 526103 157803",
+      "email": "dr. noah.anderson@example.com",
+      "clinicId": "clinic35"
+    },
+    {
+      "id": "doctor14",
+      "firstName": "Dr. Emma",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Urologist",
+      "phone": "+44 701349 658489",
+      "email": "dr. emma.brown@example.com",
+      "clinicId": "clinic70"
+    },
+    {
+      "id": "doctor15",
+      "firstName": "Dr. Oliver",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "ENT Specialist",
+      "phone": "+44 744527 818355",
+      "email": "dr. oliver.garcia@example.com",
+      "clinicId": "clinic36"
+    },
+    {
+      "id": "doctor16",
+      "firstName": "Dr. Noah",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "Nephrologist",
+      "phone": "+44 184343 293819",
+      "email": "dr. noah.brown@example.com",
+      "clinicId": "clinic32"
+    },
+    {
+      "id": "doctor17",
+      "firstName": "Dr. Oliver",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Allergist",
+      "phone": "+44 820002 944264",
+      "email": "dr. oliver.davis@example.com",
+      "clinicId": "clinic116"
+    },
+    {
+      "id": "doctor18",
+      "firstName": "Dr. Oliver",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "Radiologist",
+      "phone": "+44 493999 265773",
+      "email": "dr. oliver.davis@example.com",
+      "clinicId": "clinic98"
+    },
+    {
+      "id": "doctor19",
+      "firstName": "Dr. Mia",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Dermatologist",
+      "phone": "+44 502362 266400",
+      "email": "dr. mia.garcia@example.com",
+      "clinicId": "clinic5"
+    },
+    {
+      "id": "doctor20",
+      "firstName": "Dr. Mia",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Dermatologist",
+      "phone": "+44 715815 371393",
+      "email": "dr. mia.davis@example.com",
+      "clinicId": "clinic112"
+    },
+    {
+      "id": "doctor21",
+      "firstName": "Dr. Mia",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "Neurologist",
+      "phone": "+44 945834 420780",
+      "email": "dr. mia.brown@example.com",
+      "clinicId": "clinic87"
+    },
+    {
+      "id": "doctor22",
+      "firstName": "Dr. Noah",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Surgeon",
+      "phone": "+44 472448 173381",
+      "email": "dr. noah.garcia@example.com",
+      "clinicId": "clinic41"
+    },
+    {
+      "id": "doctor23",
+      "firstName": "Dr. Emma",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Gynecologist",
+      "phone": "+44 553496 824570",
+      "email": "dr. emma.anderson@example.com",
+      "clinicId": "clinic58"
+    },
+    {
+      "id": "doctor24",
+      "firstName": "Dr. Sophia",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "ENT Specialist",
+      "phone": "+44 705258 393761",
+      "email": "dr. sophia.davis@example.com",
+      "clinicId": "clinic75"
+    },
+    {
+      "id": "doctor25",
+      "firstName": "Dr. Mia",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "Gastroenterologist",
+      "phone": "+44 167686 141970",
+      "email": "dr. mia.davis@example.com",
+      "clinicId": "clinic19"
+    },
+    {
+      "id": "doctor26",
+      "firstName": "Dr. Sophia",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Endocrinologist",
+      "phone": "+44 942138 286419",
+      "email": "dr. sophia.anderson@example.com",
+      "clinicId": "clinic27"
+    },
+    {
+      "id": "doctor27",
+      "firstName": "Dr. Emma",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Rheumatologist",
+      "phone": "+44 750976 845495",
+      "email": "dr. emma.brown@example.com",
+      "clinicId": "clinic2"
+    },
+    {
+      "id": "doctor28",
+      "firstName": "Dr. Mia",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Radiologist",
+      "phone": "+44 719737 749792",
+      "email": "dr. mia.garcia@example.com",
+      "clinicId": "clinic38"
+    },
+    {
+      "id": "doctor29",
+      "firstName": "Dr. Mia",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Allergist",
+      "phone": "+44 295010 934016",
+      "email": "dr. mia.brown@example.com",
+      "clinicId": "clinic114"
+    },
+    {
+      "id": "doctor30",
+      "firstName": "Dr. Emma",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Gynecologist",
+      "phone": "+44 178402 345406",
+      "email": "dr. emma.garcia@example.com",
+      "clinicId": "clinic17"
+    },
+    {
+      "id": "doctor31",
+      "firstName": "Dr. Emma",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "ENT Specialist",
+      "phone": "+44 438781 623540",
+      "email": "dr. emma.brown@example.com",
+      "clinicId": "clinic7"
+    },
+    {
+      "id": "doctor32",
+      "firstName": "Dr. Noah",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Allergist",
+      "phone": "+44 388584 837559",
+      "email": "dr. noah.anderson@example.com",
+      "clinicId": "clinic83"
+    },
+    {
+      "id": "doctor33",
+      "firstName": "Dr. Emma",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Gynecologist",
+      "phone": "+44 503971 188880",
+      "email": "dr. emma.hall@example.com",
+      "clinicId": "clinic115"
+    },
+    {
+      "id": "doctor34",
+      "firstName": "Dr. Noah",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Surgeon",
+      "phone": "+44 526912 793888",
+      "email": "dr. noah.brown@example.com",
+      "clinicId": "clinic93"
+    },
+    {
+      "id": "doctor35",
+      "firstName": "Dr. Mia",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Cardiologist",
+      "phone": "+44 767850 143441",
+      "email": "dr. mia.davis@example.com",
+      "clinicId": "clinic86"
+    },
+    {
+      "id": "doctor36",
+      "firstName": "Dr. Oliver",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Cardiologist",
+      "phone": "+44 275901 627759",
+      "email": "dr. oliver.hall@example.com",
+      "clinicId": "clinic77"
+    },
+    {
+      "id": "doctor37",
+      "firstName": "Dr. Sophia",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Gynecologist",
+      "phone": "+44 817179 925610",
+      "email": "dr. sophia.davis@example.com",
+      "clinicId": "clinic81"
+    },
+    {
+      "id": "doctor38",
+      "firstName": "Dr. Mia",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Ophthalmologist",
+      "phone": "+44 558256 506024",
+      "email": "dr. mia.hall@example.com",
+      "clinicId": "clinic48"
+    },
+    {
+      "id": "doctor39",
+      "firstName": "Dr. Mia",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Dentist",
+      "phone": "+44 308379 262214",
+      "email": "dr. mia.garcia@example.com",
+      "clinicId": "clinic20"
+    },
+    {
+      "id": "doctor40",
+      "firstName": "Dr. Oliver",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Pediatrician",
+      "phone": "+44 318047 655085",
+      "email": "dr. oliver.hall@example.com",
+      "clinicId": "clinic89"
+    },
+    {
+      "id": "doctor41",
+      "firstName": "Dr. Mia",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Rheumatologist",
+      "phone": "+44 635312 308224",
+      "email": "dr. mia.anderson@example.com",
+      "clinicId": "clinic76"
+    },
+    {
+      "id": "doctor42",
+      "firstName": "Dr. Mia",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Pediatrician",
+      "phone": "+44 613236 718336",
+      "email": "dr. mia.brown@example.com",
+      "clinicId": "clinic31"
+    },
+    {
+      "id": "doctor43",
+      "firstName": "Dr. Sophia",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Orthopedic Surgeon",
+      "phone": "+44 479083 261679",
+      "email": "dr. sophia.brown@example.com",
+      "clinicId": "clinic67"
+    },
+    {
+      "id": "doctor44",
+      "firstName": "Dr. Emma",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "Radiologist",
+      "phone": "+44 990603 963583",
+      "email": "dr. emma.brown@example.com",
+      "clinicId": "clinic35"
+    },
+    {
+      "id": "doctor45",
+      "firstName": "Dr. Sophia",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Orthopedic Surgeon",
+      "phone": "+44 806665 412033",
+      "email": "dr. sophia.davis@example.com",
+      "clinicId": "clinic78"
+    },
+    {
+      "id": "doctor46",
+      "firstName": "Dr. Oliver",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Urologist",
+      "phone": "+44 233182 207374",
+      "email": "dr. oliver.garcia@example.com",
+      "clinicId": "clinic78"
+    },
+    {
+      "id": "doctor47",
+      "firstName": "Dr. Emma",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Urologist",
+      "phone": "+44 381372 512662",
+      "email": "dr. emma.brown@example.com",
+      "clinicId": "clinic117"
+    },
+    {
+      "id": "doctor48",
+      "firstName": "Dr. Mia",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Neurologist",
+      "phone": "+44 926403 392710",
+      "email": "dr. mia.anderson@example.com",
+      "clinicId": "clinic54"
+    },
+    {
+      "id": "doctor49",
+      "firstName": "Dr. Noah",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "ENT Specialist",
+      "phone": "+44 381424 234476",
+      "email": "dr. noah.brown@example.com",
+      "clinicId": "clinic71"
+    },
+    {
+      "id": "doctor50",
+      "firstName": "Dr. Oliver",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "General Practitioner",
+      "phone": "+44 119494 677936",
+      "email": "dr. oliver.hall@example.com",
+      "clinicId": "clinic67"
+    },
+    {
+      "id": "doctor51",
+      "firstName": "Dr. Oliver",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Dermatologist",
+      "phone": "+44 126348 107621",
+      "email": "dr. oliver.hall@example.com",
+      "clinicId": "clinic80"
+    },
+    {
+      "id": "doctor52",
+      "firstName": "Dr. Noah",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Dentist",
+      "phone": "+44 885614 911514",
+      "email": "dr. noah.anderson@example.com",
+      "clinicId": "clinic33"
+    },
+    {
+      "id": "doctor53",
+      "firstName": "Dr. Emma",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "ENT Specialist",
+      "phone": "+44 894855 616978",
+      "email": "dr. emma.brown@example.com",
+      "clinicId": "clinic117"
+    },
+    {
+      "id": "doctor54",
+      "firstName": "Dr. Oliver",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Gastroenterologist",
+      "phone": "+44 460608 545892",
+      "email": "dr. oliver.garcia@example.com",
+      "clinicId": "clinic2"
+    },
+    {
+      "id": "doctor55",
+      "firstName": "Dr. Sophia",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "ENT Specialist",
+      "phone": "+44 268785 332179",
+      "email": "dr. sophia.anderson@example.com",
+      "clinicId": "clinic80"
+    },
+    {
+      "id": "doctor56",
+      "firstName": "Dr. Sophia",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Radiologist",
+      "phone": "+44 368479 463175",
+      "email": "dr. sophia.anderson@example.com",
+      "clinicId": "clinic7"
+    },
+    {
+      "id": "doctor57",
+      "firstName": "Dr. Noah",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Gastroenterologist",
+      "phone": "+44 265183 768934",
+      "email": "dr. noah.garcia@example.com",
+      "clinicId": "clinic97"
+    },
+    {
+      "id": "doctor58",
+      "firstName": "Dr. Oliver",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Nephrologist",
+      "phone": "+44 822589 154125",
+      "email": "dr. oliver.davis@example.com",
+      "clinicId": "clinic40"
+    },
+    {
+      "id": "doctor59",
+      "firstName": "Dr. Emma",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Rheumatologist",
+      "phone": "+44 961546 961671",
+      "email": "dr. emma.hall@example.com",
+      "clinicId": "clinic20"
+    },
+    {
+      "id": "doctor60",
+      "firstName": "Dr. Oliver",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Surgeon",
+      "phone": "+44 713876 230835",
+      "email": "dr. oliver.anderson@example.com",
+      "clinicId": "clinic73"
+    },
+    {
+      "id": "doctor61",
+      "firstName": "Dr. Mia",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Allergist",
+      "phone": "+44 249079 819604",
+      "email": "dr. mia.hall@example.com",
+      "clinicId": "clinic11"
+    },
+    {
+      "id": "doctor62",
+      "firstName": "Dr. Sophia",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Oncologist",
+      "phone": "+44 305587 201374",
+      "email": "dr. sophia.hall@example.com",
+      "clinicId": "clinic91"
+    },
+    {
+      "id": "doctor63",
+      "firstName": "Dr. Sophia",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "General Practitioner",
+      "phone": "+44 736852 205981",
+      "email": "dr. sophia.hall@example.com",
+      "clinicId": "clinic100"
+    },
+    {
+      "id": "doctor64",
+      "firstName": "Dr. Oliver",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Gastroenterologist",
+      "phone": "+44 794776 627452",
+      "email": "dr. oliver.garcia@example.com",
+      "clinicId": "clinic104"
+    },
+    {
+      "id": "doctor65",
+      "firstName": "Dr. Noah",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Allergist",
+      "phone": "+44 585940 291523",
+      "email": "dr. noah.hall@example.com",
+      "clinicId": "clinic4"
+    },
+    {
+      "id": "doctor66",
+      "firstName": "Dr. Sophia",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Orthopedic Surgeon",
+      "phone": "+44 329290 753856",
+      "email": "dr. sophia.hall@example.com",
+      "clinicId": "clinic51"
+    },
+    {
+      "id": "doctor67",
+      "firstName": "Dr. Emma",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Urologist",
+      "phone": "+44 143928 429769",
+      "email": "dr. emma.hall@example.com",
+      "clinicId": "clinic29"
+    },
+    {
+      "id": "doctor68",
+      "firstName": "Dr. Sophia",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "Ophthalmologist",
+      "phone": "+44 764638 885565",
+      "email": "dr. sophia.davis@example.com",
+      "clinicId": "clinic31"
+    },
+    {
+      "id": "doctor69",
+      "firstName": "Dr. Sophia",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Oncologist",
+      "phone": "+44 368596 604600",
+      "email": "dr. sophia.anderson@example.com",
+      "clinicId": "clinic112"
+    },
+    {
+      "id": "doctor70",
+      "firstName": "Dr. Oliver",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "Dermatologist",
+      "phone": "+44 266741 894016",
+      "email": "dr. oliver.brown@example.com",
+      "clinicId": "clinic59"
+    },
+    {
+      "id": "doctor71",
+      "firstName": "Dr. Mia",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "Nephrologist",
+      "phone": "+44 527947 295984",
+      "email": "dr. mia.davis@example.com",
+      "clinicId": "clinic108"
+    },
+    {
+      "id": "doctor72",
+      "firstName": "Dr. Oliver",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Urologist",
+      "phone": "+44 273047 749844",
+      "email": "dr. oliver.anderson@example.com",
+      "clinicId": "clinic12"
+    },
+    {
+      "id": "doctor73",
+      "firstName": "Dr. Noah",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "Neurologist",
+      "phone": "+44 895994 636336",
+      "email": "dr. noah.brown@example.com",
+      "clinicId": "clinic62"
+    },
+    {
+      "id": "doctor74",
+      "firstName": "Dr. Sophia",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "General Practitioner",
+      "phone": "+44 456583 990281",
+      "email": "dr. sophia.brown@example.com",
+      "clinicId": "clinic33"
+    },
+    {
+      "id": "doctor75",
+      "firstName": "Dr. Emma",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Dentist",
+      "phone": "+44 508349 870025",
+      "email": "dr. emma.anderson@example.com",
+      "clinicId": "clinic56"
+    },
+    {
+      "id": "doctor76",
+      "firstName": "Dr. Oliver",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Psychiatrist",
+      "phone": "+44 854453 583942",
+      "email": "dr. oliver.anderson@example.com",
+      "clinicId": "clinic86"
+    },
+    {
+      "id": "doctor77",
+      "firstName": "Dr. Noah",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Endocrinologist",
+      "phone": "+44 898629 524486",
+      "email": "dr. noah.hall@example.com",
+      "clinicId": "clinic87"
+    },
+    {
+      "id": "doctor78",
+      "firstName": "Dr. Emma",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Urologist",
+      "phone": "+44 215762 197254",
+      "email": "dr. emma.garcia@example.com",
+      "clinicId": "clinic3"
+    },
+    {
+      "id": "doctor79",
+      "firstName": "Dr. Emma",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Neurologist",
+      "phone": "+44 752168 387962",
+      "email": "dr. emma.anderson@example.com",
+      "clinicId": "clinic45"
+    },
+    {
+      "id": "doctor80",
+      "firstName": "Dr. Mia",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Dentist",
+      "phone": "+44 730923 160727",
+      "email": "dr. mia.davis@example.com",
+      "clinicId": "clinic27"
+    },
+    {
+      "id": "doctor81",
+      "firstName": "Dr. Noah",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Surgeon",
+      "phone": "+44 361122 399524",
+      "email": "dr. noah.garcia@example.com",
+      "clinicId": "clinic99"
+    },
+    {
+      "id": "doctor82",
+      "firstName": "Dr. Emma",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Oncologist",
+      "phone": "+44 398074 212488",
+      "email": "dr. emma.anderson@example.com",
+      "clinicId": "clinic41"
+    },
+    {
+      "id": "doctor83",
+      "firstName": "Dr. Oliver",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Orthopedic Surgeon",
+      "phone": "+44 931857 650053",
+      "email": "dr. oliver.hall@example.com",
+      "clinicId": "clinic83"
+    },
+    {
+      "id": "doctor84",
+      "firstName": "Dr. Noah",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Gynecologist",
+      "phone": "+44 359536 228014",
+      "email": "dr. noah.hall@example.com",
+      "clinicId": "clinic38"
+    },
+    {
+      "id": "doctor85",
+      "firstName": "Dr. Noah",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Pediatrician",
+      "phone": "+44 474490 133225",
+      "email": "dr. noah.hall@example.com",
+      "clinicId": "clinic76"
+    },
+    {
+      "id": "doctor86",
+      "firstName": "Dr. Oliver",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Pediatrician",
+      "phone": "+44 126464 636656",
+      "email": "dr. oliver.garcia@example.com",
+      "clinicId": "clinic39"
+    },
+    {
+      "id": "doctor87",
+      "firstName": "Dr. Mia",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "Allergist",
+      "phone": "+44 291182 405717",
+      "email": "dr. mia.brown@example.com",
+      "clinicId": "clinic19"
+    },
+    {
+      "id": "doctor88",
+      "firstName": "Dr. Sophia",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "General Practitioner",
+      "phone": "+44 873233 537016",
+      "email": "dr. sophia.anderson@example.com",
+      "clinicId": "clinic63"
+    },
+    {
+      "id": "doctor89",
+      "firstName": "Dr. Sophia",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Ophthalmologist",
+      "phone": "+44 318257 933368",
+      "email": "dr. sophia.garcia@example.com",
+      "clinicId": "clinic112"
+    },
+    {
+      "id": "doctor90",
+      "firstName": "Dr. Noah",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "General Practitioner",
+      "phone": "+44 231127 912347",
+      "email": "dr. noah.davis@example.com",
+      "clinicId": "clinic45"
+    },
+    {
+      "id": "doctor91",
+      "firstName": "Dr. Mia",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "ENT Specialist",
+      "phone": "+44 404852 446613",
+      "email": "dr. mia.anderson@example.com",
+      "clinicId": "clinic92"
+    },
+    {
+      "id": "doctor92",
+      "firstName": "Dr. Noah",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "Endocrinologist",
+      "phone": "+44 656266 218670",
+      "email": "dr. noah.brown@example.com",
+      "clinicId": "clinic83"
+    },
+    {
+      "id": "doctor93",
+      "firstName": "Dr. Sophia",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "Gastroenterologist",
+      "phone": "+44 575365 189357",
+      "email": "dr. sophia.brown@example.com",
+      "clinicId": "clinic53"
+    },
+    {
+      "id": "doctor94",
+      "firstName": "Dr. Oliver",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Nephrologist",
+      "phone": "+44 148734 123813",
+      "email": "dr. oliver.garcia@example.com",
+      "clinicId": "clinic72"
+    },
+    {
+      "id": "doctor95",
+      "firstName": "Dr. Oliver",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "Urologist",
+      "phone": "+44 977282 716687",
+      "email": "dr. oliver.davis@example.com",
+      "clinicId": "clinic116"
+    },
+    {
+      "id": "doctor96",
+      "firstName": "Dr. Emma",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "General Practitioner",
+      "phone": "+44 704560 441115",
+      "email": "dr. emma.anderson@example.com",
+      "clinicId": "clinic120"
+    },
+    {
+      "id": "doctor97",
+      "firstName": "Dr. Emma",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Orthopedic Surgeon",
+      "phone": "+44 209842 902378",
+      "email": "dr. emma.anderson@example.com",
+      "clinicId": "clinic92"
+    },
+    {
+      "id": "doctor98",
+      "firstName": "Dr. Noah",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Oncologist",
+      "phone": "+44 112814 982502",
+      "email": "dr. noah.hall@example.com",
+      "clinicId": "clinic92"
+    },
+    {
+      "id": "doctor99",
+      "firstName": "Dr. Oliver",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Cardiologist",
+      "phone": "+44 600652 411839",
+      "email": "dr. oliver.hall@example.com",
+      "clinicId": "clinic112"
+    },
+    {
+      "id": "doctor100",
+      "firstName": "Dr. Noah",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Neurologist",
+      "phone": "+44 489414 946036",
+      "email": "dr. noah.garcia@example.com",
+      "clinicId": "clinic100"
+    },
+    {
+      "id": "doctor101",
+      "firstName": "Dr. Noah",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Ophthalmologist",
+      "phone": "+44 556614 275652",
+      "email": "dr. noah.anderson@example.com",
+      "clinicId": "clinic63"
+    },
+    {
+      "id": "doctor102",
+      "firstName": "Dr. Mia",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Pediatrician",
+      "phone": "+44 115795 287055",
+      "email": "dr. mia.anderson@example.com",
+      "clinicId": "clinic120"
+    },
+    {
+      "id": "doctor103",
+      "firstName": "Dr. Oliver",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Urologist",
+      "phone": "+44 978229 762343",
+      "email": "dr. oliver.anderson@example.com",
+      "clinicId": "clinic84"
+    },
+    {
+      "id": "doctor104",
+      "firstName": "Dr. Emma",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Psychiatrist",
+      "phone": "+44 626005 797955",
+      "email": "dr. emma.anderson@example.com",
+      "clinicId": "clinic54"
+    },
+    {
+      "id": "doctor105",
+      "firstName": "Dr. Sophia",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Rheumatologist",
+      "phone": "+44 710277 248544",
+      "email": "dr. sophia.brown@example.com",
+      "clinicId": "clinic60"
+    },
+    {
+      "id": "doctor106",
+      "firstName": "Dr. Sophia",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Pediatrician",
+      "phone": "+44 910196 217428",
+      "email": "dr. sophia.garcia@example.com",
+      "clinicId": "clinic104"
+    },
+    {
+      "id": "doctor107",
+      "firstName": "Dr. Mia",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "Allergist",
+      "phone": "+44 628357 361104",
+      "email": "dr. mia.brown@example.com",
+      "clinicId": "clinic38"
+    },
+    {
+      "id": "doctor108",
+      "firstName": "Dr. Emma",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Allergist",
+      "phone": "+44 410842 888414",
+      "email": "dr. emma.garcia@example.com",
+      "clinicId": "clinic36"
+    },
+    {
+      "id": "doctor109",
+      "firstName": "Dr. Mia",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "ENT Specialist",
+      "phone": "+44 129791 466698",
+      "email": "dr. mia.anderson@example.com",
+      "clinicId": "clinic14"
+    },
+    {
+      "id": "doctor110",
+      "firstName": "Dr. Oliver",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Dermatologist",
+      "phone": "+44 331872 321604",
+      "email": "dr. oliver.anderson@example.com",
+      "clinicId": "clinic48"
+    },
+    {
+      "id": "doctor111",
+      "firstName": "Dr. Sophia",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "General Practitioner",
+      "phone": "+44 907237 209955",
+      "email": "dr. sophia.anderson@example.com",
+      "clinicId": "clinic72"
+    },
+    {
+      "id": "doctor112",
+      "firstName": "Dr. Noah",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "Neurologist",
+      "phone": "+44 742211 991554",
+      "email": "dr. noah.brown@example.com",
+      "clinicId": "clinic2"
+    },
+    {
+      "id": "doctor113",
+      "firstName": "Dr. Mia",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Gynecologist",
+      "phone": "+44 836333 641689",
+      "email": "dr. mia.hall@example.com",
+      "clinicId": "clinic27"
+    },
+    {
+      "id": "doctor114",
+      "firstName": "Dr. Oliver",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "ENT Specialist",
+      "phone": "+44 347776 724322",
+      "email": "dr. oliver.garcia@example.com",
+      "clinicId": "clinic54"
+    },
+    {
+      "id": "doctor115",
+      "firstName": "Dr. Mia",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "Neurologist",
+      "phone": "+44 251720 863484",
+      "email": "dr. mia.davis@example.com",
+      "clinicId": "clinic36"
+    },
+    {
+      "id": "doctor116",
+      "firstName": "Dr. Noah",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Psychiatrist",
+      "phone": "+44 268671 230831",
+      "email": "dr. noah.anderson@example.com",
+      "clinicId": "clinic49"
+    },
+    {
+      "id": "doctor117",
+      "firstName": "Dr. Mia",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Rheumatologist",
+      "phone": "+44 624195 977297",
+      "email": "dr. mia.brown@example.com",
+      "clinicId": "clinic91"
+    },
+    {
+      "id": "doctor118",
+      "firstName": "Dr. Mia",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Surgeon",
+      "phone": "+44 799326 402538",
+      "email": "dr. mia.anderson@example.com",
+      "clinicId": "clinic5"
+    },
+    {
+      "id": "doctor119",
+      "firstName": "Dr. Noah",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Cardiologist",
+      "phone": "+44 710475 524032",
+      "email": "dr. noah.davis@example.com",
+      "clinicId": "clinic111"
+    },
+    {
+      "id": "doctor120",
+      "firstName": "Dr. Sophia",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "Psychiatrist",
+      "phone": "+44 800536 195675",
+      "email": "dr. sophia.brown@example.com",
+      "clinicId": "clinic23"
+    },
+    {
+      "id": "doctor121",
+      "firstName": "Dr. Oliver",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Ophthalmologist",
+      "phone": "+44 868371 890051",
+      "email": "dr. oliver.brown@example.com",
+      "clinicId": "clinic64"
+    },
+    {
+      "id": "doctor122",
+      "firstName": "Dr. Mia",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Dentist",
+      "phone": "+44 349881 987550",
+      "email": "dr. mia.hall@example.com",
+      "clinicId": "clinic79"
+    },
+    {
+      "id": "doctor123",
+      "firstName": "Dr. Emma",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Ophthalmologist",
+      "phone": "+44 576773 140778",
+      "email": "dr. emma.hall@example.com",
+      "clinicId": "clinic92"
+    },
+    {
+      "id": "doctor124",
+      "firstName": "Dr. Oliver",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Neurologist",
+      "phone": "+44 555184 839339",
+      "email": "dr. oliver.garcia@example.com",
+      "clinicId": "clinic34"
+    },
+    {
+      "id": "doctor125",
+      "firstName": "Dr. Oliver",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Dentist",
+      "phone": "+44 292144 553095",
+      "email": "dr. oliver.garcia@example.com",
+      "clinicId": "clinic38"
+    },
+    {
+      "id": "doctor126",
+      "firstName": "Dr. Emma",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Nephrologist",
+      "phone": "+44 225876 460295",
+      "email": "dr. emma.davis@example.com",
+      "clinicId": "clinic17"
+    },
+    {
+      "id": "doctor127",
+      "firstName": "Dr. Noah",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Cardiologist",
+      "phone": "+44 788662 390783",
+      "email": "dr. noah.brown@example.com",
+      "clinicId": "clinic45"
+    },
+    {
+      "id": "doctor128",
+      "firstName": "Dr. Emma",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "General Practitioner",
+      "phone": "+44 526163 734272",
+      "email": "dr. emma.davis@example.com",
+      "clinicId": "clinic56"
+    },
+    {
+      "id": "doctor129",
+      "firstName": "Dr. Noah",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Oncologist",
+      "phone": "+44 803237 835661",
+      "email": "dr. noah.davis@example.com",
+      "clinicId": "clinic30"
+    },
+    {
+      "id": "doctor130",
+      "firstName": "Dr. Mia",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Allergist",
+      "phone": "+44 649903 180881",
+      "email": "dr. mia.anderson@example.com",
+      "clinicId": "clinic5"
+    },
+    {
+      "id": "doctor131",
+      "firstName": "Dr. Oliver",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "Ophthalmologist",
+      "phone": "+44 306942 661937",
+      "email": "dr. oliver.davis@example.com",
+      "clinicId": "clinic59"
+    },
+    {
+      "id": "doctor132",
+      "firstName": "Dr. Emma",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Radiologist",
+      "phone": "+44 519909 955343",
+      "email": "dr. emma.garcia@example.com",
+      "clinicId": "clinic120"
+    },
+    {
+      "id": "doctor133",
+      "firstName": "Dr. Sophia",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Gynecologist",
+      "phone": "+44 749610 877918",
+      "email": "dr. sophia.hall@example.com",
+      "clinicId": "clinic46"
+    },
+    {
+      "id": "doctor134",
+      "firstName": "Dr. Noah",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Endocrinologist",
+      "phone": "+44 248260 234737",
+      "email": "dr. noah.garcia@example.com",
+      "clinicId": "clinic23"
+    },
+    {
+      "id": "doctor135",
+      "firstName": "Dr. Mia",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Orthopedic Surgeon",
+      "phone": "+44 722607 806324",
+      "email": "dr. mia.hall@example.com",
+      "clinicId": "clinic88"
+    },
+    {
+      "id": "doctor136",
+      "firstName": "Dr. Sophia",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Oncologist",
+      "phone": "+44 804746 618126",
+      "email": "dr. sophia.hall@example.com",
+      "clinicId": "clinic86"
+    },
+    {
+      "id": "doctor137",
+      "firstName": "Dr. Mia",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "Dermatologist",
+      "phone": "+44 777445 377280",
+      "email": "dr. mia.davis@example.com",
+      "clinicId": "clinic75"
+    },
+    {
+      "id": "doctor138",
+      "firstName": "Dr. Oliver",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Pediatrician",
+      "phone": "+44 814568 785561",
+      "email": "dr. oliver.garcia@example.com",
+      "clinicId": "clinic85"
+    },
+    {
+      "id": "doctor139",
+      "firstName": "Dr. Oliver",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "Neurologist",
+      "phone": "+44 274817 201829",
+      "email": "dr. oliver.davis@example.com",
+      "clinicId": "clinic91"
+    },
+    {
+      "id": "doctor140",
+      "firstName": "Dr. Sophia",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "Neurologist",
+      "phone": "+44 199455 914101",
+      "email": "dr. sophia.davis@example.com",
+      "clinicId": "clinic120"
+    },
+    {
+      "id": "doctor141",
+      "firstName": "Dr. Emma",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Endocrinologist",
+      "phone": "+44 853600 661612",
+      "email": "dr. emma.garcia@example.com",
+      "clinicId": "clinic17"
+    },
+    {
+      "id": "doctor142",
+      "firstName": "Dr. Emma",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Neurologist",
+      "phone": "+44 477589 911542",
+      "email": "dr. emma.hall@example.com",
+      "clinicId": "clinic35"
+    },
+    {
+      "id": "doctor143",
+      "firstName": "Dr. Noah",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Radiologist",
+      "phone": "+44 195487 435332",
+      "email": "dr. noah.hall@example.com",
+      "clinicId": "clinic86"
+    },
+    {
+      "id": "doctor144",
+      "firstName": "Dr. Oliver",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Urologist",
+      "phone": "+44 143203 169754",
+      "email": "dr. oliver.anderson@example.com",
+      "clinicId": "clinic25"
+    },
+    {
+      "id": "doctor145",
+      "firstName": "Dr. Noah",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Rheumatologist",
+      "phone": "+44 876402 716963",
+      "email": "dr. noah.brown@example.com",
+      "clinicId": "clinic67"
+    },
+    {
+      "id": "doctor146",
+      "firstName": "Dr. Noah",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "Dentist",
+      "phone": "+44 911524 954253",
+      "email": "dr. noah.davis@example.com",
+      "clinicId": "clinic39"
+    },
+    {
+      "id": "doctor147",
+      "firstName": "Dr. Sophia",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Orthopedic Surgeon",
+      "phone": "+44 332309 281863",
+      "email": "dr. sophia.hall@example.com",
+      "clinicId": "clinic118"
+    },
+    {
+      "id": "doctor148",
+      "firstName": "Dr. Noah",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Oncologist",
+      "phone": "+44 153220 688924",
+      "email": "dr. noah.brown@example.com",
+      "clinicId": "clinic112"
+    },
+    {
+      "id": "doctor149",
+      "firstName": "Dr. Mia",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Dermatologist",
+      "phone": "+44 201279 353622",
+      "email": "dr. mia.davis@example.com",
+      "clinicId": "clinic106"
+    },
+    {
+      "id": "doctor150",
+      "firstName": "Dr. Noah",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Oncologist",
+      "phone": "+44 745877 319936",
+      "email": "dr. noah.hall@example.com",
+      "clinicId": "clinic9"
+    },
+    {
+      "id": "doctor151",
+      "firstName": "Dr. Noah",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "Nephrologist",
+      "phone": "+44 207623 673841",
+      "email": "dr. noah.davis@example.com",
+      "clinicId": "clinic29"
+    },
+    {
+      "id": "doctor152",
+      "firstName": "Dr. Noah",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Nephrologist",
+      "phone": "+44 449114 234165",
+      "email": "dr. noah.garcia@example.com",
+      "clinicId": "clinic111"
+    },
+    {
+      "id": "doctor153",
+      "firstName": "Dr. Oliver",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Oncologist",
+      "phone": "+44 844592 510127",
+      "email": "dr. oliver.garcia@example.com",
+      "clinicId": "clinic80"
+    },
+    {
+      "id": "doctor154",
+      "firstName": "Dr. Sophia",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Orthopedic Surgeon",
+      "phone": "+44 397989 485451",
+      "email": "dr. sophia.hall@example.com",
+      "clinicId": "clinic5"
+    },
+    {
+      "id": "doctor155",
+      "firstName": "Dr. Oliver",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "General Practitioner",
+      "phone": "+44 863142 334332",
+      "email": "dr. oliver.davis@example.com",
+      "clinicId": "clinic61"
+    },
+    {
+      "id": "doctor156",
+      "firstName": "Dr. Oliver",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Allergist",
+      "phone": "+44 854367 479867",
+      "email": "dr. oliver.garcia@example.com",
+      "clinicId": "clinic49"
+    },
+    {
+      "id": "doctor157",
+      "firstName": "Dr. Noah",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Ophthalmologist",
+      "phone": "+44 770549 925727",
+      "email": "dr. noah.garcia@example.com",
+      "clinicId": "clinic86"
+    },
+    {
+      "id": "doctor158",
+      "firstName": "Dr. Noah",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Dentist",
+      "phone": "+44 744798 788357",
+      "email": "dr. noah.brown@example.com",
+      "clinicId": "clinic64"
+    },
+    {
+      "id": "doctor159",
+      "firstName": "Dr. Mia",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Psychiatrist",
+      "phone": "+44 624808 603759",
+      "email": "dr. mia.garcia@example.com",
+      "clinicId": "clinic117"
+    },
+    {
+      "id": "doctor160",
+      "firstName": "Dr. Noah",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Psychiatrist",
+      "phone": "+44 799714 748092",
+      "email": "dr. noah.hall@example.com",
+      "clinicId": "clinic52"
+    },
+    {
+      "id": "doctor161",
+      "firstName": "Dr. Emma",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Neurologist",
+      "phone": "+44 810376 525765",
+      "email": "dr. emma.garcia@example.com",
+      "clinicId": "clinic39"
+    },
+    {
+      "id": "doctor162",
+      "firstName": "Dr. Oliver",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Endocrinologist",
+      "phone": "+44 357336 931584",
+      "email": "dr. oliver.hall@example.com",
+      "clinicId": "clinic81"
+    },
+    {
+      "id": "doctor163",
+      "firstName": "Dr. Sophia",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Nephrologist",
+      "phone": "+44 651402 800708",
+      "email": "dr. sophia.garcia@example.com",
+      "clinicId": "clinic37"
+    },
+    {
+      "id": "doctor164",
+      "firstName": "Dr. Noah",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Allergist",
+      "phone": "+44 433673 241686",
+      "email": "dr. noah.anderson@example.com",
+      "clinicId": "clinic49"
+    },
+    {
+      "id": "doctor165",
+      "firstName": "Dr. Oliver",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "Surgeon",
+      "phone": "+44 844371 205676",
+      "email": "dr. oliver.brown@example.com",
+      "clinicId": "clinic48"
+    },
+    {
+      "id": "doctor166",
+      "firstName": "Dr. Oliver",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Oncologist",
+      "phone": "+44 571721 614673",
+      "email": "dr. oliver.davis@example.com",
+      "clinicId": "clinic88"
+    },
+    {
+      "id": "doctor167",
+      "firstName": "Dr. Noah",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "General Practitioner",
+      "phone": "+44 271721 618946",
+      "email": "dr. noah.hall@example.com",
+      "clinicId": "clinic71"
+    },
+    {
+      "id": "doctor168",
+      "firstName": "Dr. Oliver",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "ENT Specialist",
+      "phone": "+44 198188 762450",
+      "email": "dr. oliver.brown@example.com",
+      "clinicId": "clinic44"
+    },
+    {
+      "id": "doctor169",
+      "firstName": "Dr. Sophia",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Endocrinologist",
+      "phone": "+44 735860 530466",
+      "email": "dr. sophia.anderson@example.com",
+      "clinicId": "clinic108"
+    },
+    {
+      "id": "doctor170",
+      "firstName": "Dr. Mia",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Radiologist",
+      "phone": "+44 659024 394549",
+      "email": "dr. mia.anderson@example.com",
+      "clinicId": "clinic104"
+    },
+    {
+      "id": "doctor171",
+      "firstName": "Dr. Noah",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "ENT Specialist",
+      "phone": "+44 109254 463934",
+      "email": "dr. noah.hall@example.com",
+      "clinicId": "clinic57"
+    },
+    {
+      "id": "doctor172",
+      "firstName": "Dr. Sophia",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Allergist",
+      "phone": "+44 959566 760498",
+      "email": "dr. sophia.brown@example.com",
+      "clinicId": "clinic69"
+    },
+    {
+      "id": "doctor173",
+      "firstName": "Dr. Oliver",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "General Practitioner",
+      "phone": "+44 888767 990159",
+      "email": "dr. oliver.brown@example.com",
+      "clinicId": "clinic93"
+    },
+    {
+      "id": "doctor174",
+      "firstName": "Dr. Mia",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Gastroenterologist",
+      "phone": "+44 299513 358289",
+      "email": "dr. mia.davis@example.com",
+      "clinicId": "clinic13"
+    },
+    {
+      "id": "doctor175",
+      "firstName": "Dr. Noah",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "ENT Specialist",
+      "phone": "+44 522232 746294",
+      "email": "dr. noah.garcia@example.com",
+      "clinicId": "clinic9"
+    },
+    {
+      "id": "doctor176",
+      "firstName": "Dr. Noah",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "Neurologist",
+      "phone": "+44 711057 605386",
+      "email": "dr. noah.davis@example.com",
+      "clinicId": "clinic91"
+    },
+    {
+      "id": "doctor177",
+      "firstName": "Dr. Noah",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Gastroenterologist",
+      "phone": "+44 539201 670504",
+      "email": "dr. noah.hall@example.com",
+      "clinicId": "clinic74"
+    },
+    {
+      "id": "doctor178",
+      "firstName": "Dr. Oliver",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Neurologist",
+      "phone": "+44 384319 417121",
+      "email": "dr. oliver.anderson@example.com",
+      "clinicId": "clinic101"
+    },
+    {
+      "id": "doctor179",
+      "firstName": "Dr. Mia",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Orthopedic Surgeon",
+      "phone": "+44 817733 459642",
+      "email": "dr. mia.hall@example.com",
+      "clinicId": "clinic41"
+    },
+    {
+      "id": "doctor180",
+      "firstName": "Dr. Oliver",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Allergist",
+      "phone": "+44 806237 943287",
+      "email": "dr. oliver.brown@example.com",
+      "clinicId": "clinic55"
+    },
+    {
+      "id": "doctor181",
+      "firstName": "Dr. Mia",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Neurologist",
+      "phone": "+44 316233 172704",
+      "email": "dr. mia.hall@example.com",
+      "clinicId": "clinic79"
+    },
+    {
+      "id": "doctor182",
+      "firstName": "Dr. Sophia",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Neurologist",
+      "phone": "+44 592175 614173",
+      "email": "dr. sophia.garcia@example.com",
+      "clinicId": "clinic62"
+    },
+    {
+      "id": "doctor183",
+      "firstName": "Dr. Oliver",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "General Practitioner",
+      "phone": "+44 752574 575436",
+      "email": "dr. oliver.hall@example.com",
+      "clinicId": "clinic94"
+    },
+    {
+      "id": "doctor184",
+      "firstName": "Dr. Oliver",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "General Practitioner",
+      "phone": "+44 298526 309958",
+      "email": "dr. oliver.hall@example.com",
+      "clinicId": "clinic43"
+    },
+    {
+      "id": "doctor185",
+      "firstName": "Dr. Oliver",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "General Practitioner",
+      "phone": "+44 991933 822770",
+      "email": "dr. oliver.hall@example.com",
+      "clinicId": "clinic94"
+    },
+    {
+      "id": "doctor186",
+      "firstName": "Dr. Noah",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Gastroenterologist",
+      "phone": "+44 686020 438181",
+      "email": "dr. noah.hall@example.com",
+      "clinicId": "clinic84"
+    },
+    {
+      "id": "doctor187",
+      "firstName": "Dr. Noah",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "Nephrologist",
+      "phone": "+44 832497 808550",
+      "email": "dr. noah.brown@example.com",
+      "clinicId": "clinic108"
+    },
+    {
+      "id": "doctor188",
+      "firstName": "Dr. Mia",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Neurologist",
+      "phone": "+44 651843 665757",
+      "email": "dr. mia.garcia@example.com",
+      "clinicId": "clinic25"
+    },
+    {
+      "id": "doctor189",
+      "firstName": "Dr. Sophia",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "Allergist",
+      "phone": "+44 783823 915176",
+      "email": "dr. sophia.brown@example.com",
+      "clinicId": "clinic7"
+    },
+    {
+      "id": "doctor190",
+      "firstName": "Dr. Oliver",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Pediatrician",
+      "phone": "+44 237772 349168",
+      "email": "dr. oliver.davis@example.com",
+      "clinicId": "clinic43"
+    },
+    {
+      "id": "doctor191",
+      "firstName": "Dr. Emma",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Neurologist",
+      "phone": "+44 857563 347189",
+      "email": "dr. emma.davis@example.com",
+      "clinicId": "clinic56"
+    },
+    {
+      "id": "doctor192",
+      "firstName": "Dr. Emma",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Nephrologist",
+      "phone": "+44 261108 713466",
+      "email": "dr. emma.davis@example.com",
+      "clinicId": "clinic114"
+    },
+    {
+      "id": "doctor193",
+      "firstName": "Dr. Mia",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Neurologist",
+      "phone": "+44 926169 365910",
+      "email": "dr. mia.davis@example.com",
+      "clinicId": "clinic110"
+    },
+    {
+      "id": "doctor194",
+      "firstName": "Dr. Emma",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Urologist",
+      "phone": "+44 800802 174092",
+      "email": "dr. emma.hall@example.com",
+      "clinicId": "clinic14"
+    },
+    {
+      "id": "doctor195",
+      "firstName": "Dr. Emma",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Dentist",
+      "phone": "+44 802485 789826",
+      "email": "dr. emma.anderson@example.com",
+      "clinicId": "clinic96"
+    },
+    {
+      "id": "doctor196",
+      "firstName": "Dr. Noah",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Cardiologist",
+      "phone": "+44 468484 492475",
+      "email": "dr. noah.hall@example.com",
+      "clinicId": "clinic3"
+    },
+    {
+      "id": "doctor197",
+      "firstName": "Dr. Oliver",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Rheumatologist",
+      "phone": "+44 195981 288709",
+      "email": "dr. oliver.anderson@example.com",
+      "clinicId": "clinic78"
+    },
+    {
+      "id": "doctor198",
+      "firstName": "Dr. Oliver",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Oncologist",
+      "phone": "+44 415999 376899",
+      "email": "dr. oliver.garcia@example.com",
+      "clinicId": "clinic9"
+    },
+    {
+      "id": "doctor199",
+      "firstName": "Dr. Sophia",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Psychiatrist",
+      "phone": "+44 853799 874362",
+      "email": "dr. sophia.hall@example.com",
+      "clinicId": "clinic29"
+    },
+    {
+      "id": "doctor200",
+      "firstName": "Dr. Oliver",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Nephrologist",
+      "phone": "+44 240500 419455",
+      "email": "dr. oliver.brown@example.com",
+      "clinicId": "clinic46"
+    },
+    {
+      "id": "doctor201",
+      "firstName": "Dr. Mia",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "General Practitioner",
+      "phone": "+44 734472 149378",
+      "email": "dr. mia.brown@example.com",
+      "clinicId": "clinic34"
+    },
+    {
+      "id": "doctor202",
+      "firstName": "Dr. Emma",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Neurologist",
+      "phone": "+44 213509 684794",
+      "email": "dr. emma.davis@example.com",
+      "clinicId": "clinic56"
+    },
+    {
+      "id": "doctor203",
+      "firstName": "Dr. Emma",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Ophthalmologist",
+      "phone": "+44 140702 506886",
+      "email": "dr. emma.anderson@example.com",
+      "clinicId": "clinic36"
+    },
+    {
+      "id": "doctor204",
+      "firstName": "Dr. Noah",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Pediatrician",
+      "phone": "+44 233887 402427",
+      "email": "dr. noah.garcia@example.com",
+      "clinicId": "clinic32"
+    },
+    {
+      "id": "doctor205",
+      "firstName": "Dr. Sophia",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Oncologist",
+      "phone": "+44 611464 618275",
+      "email": "dr. sophia.garcia@example.com",
+      "clinicId": "clinic36"
+    },
+    {
+      "id": "doctor206",
+      "firstName": "Dr. Mia",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Nephrologist",
+      "phone": "+44 241955 107489",
+      "email": "dr. mia.brown@example.com",
+      "clinicId": "clinic70"
+    },
+    {
+      "id": "doctor207",
+      "firstName": "Dr. Mia",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "Dermatologist",
+      "phone": "+44 245265 951166",
+      "email": "dr. mia.brown@example.com",
+      "clinicId": "clinic37"
+    },
+    {
+      "id": "doctor208",
+      "firstName": "Dr. Noah",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "ENT Specialist",
+      "phone": "+44 723999 852024",
+      "email": "dr. noah.davis@example.com",
+      "clinicId": "clinic56"
+    },
+    {
+      "id": "doctor209",
+      "firstName": "Dr. Emma",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Gynecologist",
+      "phone": "+44 353615 971563",
+      "email": "dr. emma.garcia@example.com",
+      "clinicId": "clinic90"
+    },
+    {
+      "id": "doctor210",
+      "firstName": "Dr. Emma",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Oncologist",
+      "phone": "+44 481291 741038",
+      "email": "dr. emma.hall@example.com",
+      "clinicId": "clinic67"
+    },
+    {
+      "id": "doctor211",
+      "firstName": "Dr. Emma",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Gastroenterologist",
+      "phone": "+44 691447 284058",
+      "email": "dr. emma.anderson@example.com",
+      "clinicId": "clinic5"
+    },
+    {
+      "id": "doctor212",
+      "firstName": "Dr. Noah",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Dentist",
+      "phone": "+44 943898 749203",
+      "email": "dr. noah.hall@example.com",
+      "clinicId": "clinic36"
+    },
+    {
+      "id": "doctor213",
+      "firstName": "Dr. Oliver",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Nephrologist",
+      "phone": "+44 539514 813379",
+      "email": "dr. oliver.brown@example.com",
+      "clinicId": "clinic17"
+    },
+    {
+      "id": "doctor214",
+      "firstName": "Dr. Mia",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Ophthalmologist",
+      "phone": "+44 652932 842750",
+      "email": "dr. mia.davis@example.com",
+      "clinicId": "clinic39"
+    },
+    {
+      "id": "doctor215",
+      "firstName": "Dr. Emma",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "Gynecologist",
+      "phone": "+44 487977 261177",
+      "email": "dr. emma.davis@example.com",
+      "clinicId": "clinic44"
+    },
+    {
+      "id": "doctor216",
+      "firstName": "Dr. Emma",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Psychiatrist",
+      "phone": "+44 654321 780469",
+      "email": "dr. emma.hall@example.com",
+      "clinicId": "clinic102"
+    },
+    {
+      "id": "doctor217",
+      "firstName": "Dr. Noah",
+      "lastName": "Davis",
+      "gender": "Male",
+      "specialty": "Rheumatologist",
+      "phone": "+44 926204 182356",
+      "email": "dr. noah.davis@example.com",
+      "clinicId": "clinic51"
+    },
+    {
+      "id": "doctor218",
+      "firstName": "Dr. Oliver",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Rheumatologist",
+      "phone": "+44 435990 919625",
+      "email": "dr. oliver.anderson@example.com",
+      "clinicId": "clinic10"
+    },
+    {
+      "id": "doctor219",
+      "firstName": "Dr. Noah",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Neurologist",
+      "phone": "+44 723780 286846",
+      "email": "dr. noah.hall@example.com",
+      "clinicId": "clinic42"
+    },
+    {
+      "id": "doctor220",
+      "firstName": "Dr. Sophia",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Orthopedic Surgeon",
+      "phone": "+44 225520 273818",
+      "email": "dr. sophia.garcia@example.com",
+      "clinicId": "clinic93"
+    },
+    {
+      "id": "doctor221",
+      "firstName": "Dr. Noah",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Pediatrician",
+      "phone": "+44 832128 745117",
+      "email": "dr. noah.hall@example.com",
+      "clinicId": "clinic18"
+    },
+    {
+      "id": "doctor222",
+      "firstName": "Dr. Oliver",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Gynecologist",
+      "phone": "+44 788443 329079",
+      "email": "dr. oliver.anderson@example.com",
+      "clinicId": "clinic26"
+    },
+    {
+      "id": "doctor223",
+      "firstName": "Dr. Mia",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Psychiatrist",
+      "phone": "+44 699852 404289",
+      "email": "dr. mia.garcia@example.com",
+      "clinicId": "clinic89"
+    },
+    {
+      "id": "doctor224",
+      "firstName": "Dr. Sophia",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Rheumatologist",
+      "phone": "+44 900883 711159",
+      "email": "dr. sophia.hall@example.com",
+      "clinicId": "clinic90"
+    },
+    {
+      "id": "doctor225",
+      "firstName": "Dr. Mia",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Endocrinologist",
+      "phone": "+44 219265 345210",
+      "email": "dr. mia.hall@example.com",
+      "clinicId": "clinic59"
+    },
+    {
+      "id": "doctor226",
+      "firstName": "Dr. Emma",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Endocrinologist",
+      "phone": "+44 942346 884205",
+      "email": "dr. emma.brown@example.com",
+      "clinicId": "clinic27"
+    },
+    {
+      "id": "doctor227",
+      "firstName": "Dr. Mia",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Allergist",
+      "phone": "+44 143937 461528",
+      "email": "dr. mia.hall@example.com",
+      "clinicId": "clinic32"
+    },
+    {
+      "id": "doctor228",
+      "firstName": "Dr. Noah",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Oncologist",
+      "phone": "+44 955350 801071",
+      "email": "dr. noah.garcia@example.com",
+      "clinicId": "clinic72"
+    },
+    {
+      "id": "doctor229",
+      "firstName": "Dr. Sophia",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "Psychiatrist",
+      "phone": "+44 302777 881410",
+      "email": "dr. sophia.garcia@example.com",
+      "clinicId": "clinic77"
+    },
+    {
+      "id": "doctor230",
+      "firstName": "Dr. Sophia",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "ENT Specialist",
+      "phone": "+44 925810 190384",
+      "email": "dr. sophia.anderson@example.com",
+      "clinicId": "clinic91"
+    },
+    {
+      "id": "doctor231",
+      "firstName": "Dr. Emma",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Surgeon",
+      "phone": "+44 995944 110686",
+      "email": "dr. emma.anderson@example.com",
+      "clinicId": "clinic58"
+    },
+    {
+      "id": "doctor232",
+      "firstName": "Dr. Oliver",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Nephrologist",
+      "phone": "+44 791019 248564",
+      "email": "dr. oliver.anderson@example.com",
+      "clinicId": "clinic6"
+    },
+    {
+      "id": "doctor233",
+      "firstName": "Dr. Emma",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Endocrinologist",
+      "phone": "+44 529492 732836",
+      "email": "dr. emma.anderson@example.com",
+      "clinicId": "clinic74"
+    },
+    {
+      "id": "doctor234",
+      "firstName": "Dr. Noah",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "ENT Specialist",
+      "phone": "+44 688145 377200",
+      "email": "dr. noah.brown@example.com",
+      "clinicId": "clinic59"
+    },
+    {
+      "id": "doctor235",
+      "firstName": "Dr. Noah",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "Psychiatrist",
+      "phone": "+44 433128 948605",
+      "email": "dr. noah.brown@example.com",
+      "clinicId": "clinic20"
+    },
+    {
+      "id": "doctor236",
+      "firstName": "Dr. Mia",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Oncologist",
+      "phone": "+44 455877 243611",
+      "email": "dr. mia.garcia@example.com",
+      "clinicId": "clinic99"
+    },
+    {
+      "id": "doctor237",
+      "firstName": "Dr. Mia",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "Gynecologist",
+      "phone": "+44 985622 718026",
+      "email": "dr. mia.anderson@example.com",
+      "clinicId": "clinic46"
+    },
+    {
+      "id": "doctor238",
+      "firstName": "Dr. Sophia",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Surgeon",
+      "phone": "+44 472828 877409",
+      "email": "dr. sophia.brown@example.com",
+      "clinicId": "clinic70"
+    },
+    {
+      "id": "doctor239",
+      "firstName": "Dr. Emma",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Pediatrician",
+      "phone": "+44 123701 668251",
+      "email": "dr. emma.brown@example.com",
+      "clinicId": "clinic93"
+    },
+    {
+      "id": "doctor240",
+      "firstName": "Dr. Noah",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Rheumatologist",
+      "phone": "+44 546527 613852",
+      "email": "dr. noah.hall@example.com",
+      "clinicId": "clinic44"
+    },
+    {
+      "id": "doctor241",
+      "firstName": "Dr. Emma",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Urologist",
+      "phone": "+44 637903 381850",
+      "email": "dr. emma.hall@example.com",
+      "clinicId": "clinic60"
+    },
+    {
+      "id": "doctor242",
+      "firstName": "Dr. Oliver",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Pediatrician",
+      "phone": "+44 350196 981604",
+      "email": "dr. oliver.anderson@example.com",
+      "clinicId": "clinic78"
+    },
+    {
+      "id": "doctor243",
+      "firstName": "Dr. Mia",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Dentist",
+      "phone": "+44 289189 110611",
+      "email": "dr. mia.hall@example.com",
+      "clinicId": "clinic119"
+    },
+    {
+      "id": "doctor244",
+      "firstName": "Dr. Emma",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "ENT Specialist",
+      "phone": "+44 350272 684443",
+      "email": "dr. emma.hall@example.com",
+      "clinicId": "clinic68"
+    },
+    {
+      "id": "doctor245",
+      "firstName": "Dr. Emma",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "Endocrinologist",
+      "phone": "+44 141746 573209",
+      "email": "dr. emma.brown@example.com",
+      "clinicId": "clinic41"
+    },
+    {
+      "id": "doctor246",
+      "firstName": "Dr. Sophia",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Endocrinologist",
+      "phone": "+44 362229 183758",
+      "email": "dr. sophia.brown@example.com",
+      "clinicId": "clinic58"
+    },
+    {
+      "id": "doctor247",
+      "firstName": "Dr. Mia",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Radiologist",
+      "phone": "+44 349744 614113",
+      "email": "dr. mia.garcia@example.com",
+      "clinicId": "clinic59"
+    },
+    {
+      "id": "doctor248",
+      "firstName": "Dr. Oliver",
+      "lastName": "Garcia",
+      "gender": "Female",
+      "specialty": "ENT Specialist",
+      "phone": "+44 598768 680096",
+      "email": "dr. oliver.garcia@example.com",
+      "clinicId": "clinic6"
+    },
+    {
+      "id": "doctor249",
+      "firstName": "Dr. Emma",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Allergist",
+      "phone": "+44 884669 403174",
+      "email": "dr. emma.anderson@example.com",
+      "clinicId": "clinic10"
+    },
+    {
+      "id": "doctor250",
+      "firstName": "Dr. Noah",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Psychiatrist",
+      "phone": "+44 246392 108866",
+      "email": "dr. noah.davis@example.com",
+      "clinicId": "clinic61"
+    }
+  ]
+}

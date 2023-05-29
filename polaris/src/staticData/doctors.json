@@ -1,0 +1,105 @@
+{
+    "doctors": [
+      {
+        "id": "doctor1",
+        "firstName": "Dr. John",
+        "lastName": "Smith",
+        "gender": "Male",
+        "specialty": "Cardiology",
+        "phone": "+44 1234 567890",
+        "email": "john.smith@example.com",
+        "clinicId": "clinic1"
+      },
+      {
+        "id": "doctor2",
+        "firstName": "Dr. Emily",
+        "lastName": "Johnson",
+        "gender": "Female",
+        "specialty": "Dermatology",
+        "phone": "+44 2345 678901",
+        "email": "emily.johnson@example.com",
+        "clinicId": "clinic2"
+      },
+      {
+        "id": "doctor3",
+        "firstName": "Dr. Michael",
+        "lastName": "Williams",
+        "gender": "Male",
+        "specialty": "Ophthalmology",
+        "phone": "+44 3456 789012",
+        "email": "michael.williams@example.com",
+        "clinicId": "clinic3"
+      },
+      {
+        "id": "doctor4",
+        "firstName": "Dr. Olivia",
+        "lastName": "Brown",
+        "gender": "Female",
+        "specialty": "Orthopedics",
+        "phone": "+44 4567 890123",
+        "email": "olivia.brown@example.com",
+        "clinicId": "clinic4"
+      },
+      {
+        "id": "doctor5",
+        "firstName": "Dr. William",
+        "lastName": "Jones",
+        "gender": "Male",
+        "specialty": "Neurology",
+        "phone": "+44 5678 901234",
+        "email": "william.jones@example.com",
+        "clinicId": "clinic5"
+      },
+      {
+        "id": "doctor6",
+        "firstName": "Dr. Sophia",
+        "lastName": "Davis",
+        "gender": "Female",
+        "specialty": "Gynecology",
+        "phone": "+44 6789 012345",
+        "email": "sophia.davis@example.com",
+        "clinicId": "clinic6"
+      },
+      {
+        "id": "doctor7",
+        "firstName": "Dr. James",
+        "lastName": "Miller",
+        "gender": "Male",
+        "specialty": "Pediatrics",
+        "phone": "+44 7890 123456",
+        "email": "james.miller@example.com",
+        "clinicId": "clinic7"
+      },
+      {
+        "id": "doctor8",
+        "firstName": "Dr. Ava",
+        "lastName": "Wilson",
+        "gender": "Female",
+        "specialty": "Endocrinology",
+        "phone": "+44 8901 234567",
+        "email": "ava.wilson@example.com",
+        "clinicId": "clinic8"
+      },
+      {
+        "id": "doctor9",
+        "firstName": "Dr. Noah",
+        "lastName": "Taylor",
+        "gender": "Male",
+        "specialty": "Gastroenterology",
+        "phone": "+44 9012 345678",
+        "email": "noah.taylor@example.com",
+        "clinicId": "clinic9"
+      },
+      {
+        "id": "doctor10",
+        "firstName": "Dr. Mia",
+        "lastName": "Anderson",
+        "gender": "Female",
+        "specialty": "Psychiatry",
+        "phone": "+44 1234 567890",
+        "email": "mia.anderson@example.com",
+        "clinicId": "clinic10"
+        }
+    ]
+}
+  

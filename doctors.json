@@ -1,0 +1,104 @@
+{
+  "doctors": [
+    {
+      "id": "doctor1",
+      "firstName": "Dr. Sophia",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Cardiologist",
+      "phone": "+44 856522 327295",
+      "email": "dr. sophia.anderson@example.com",
+      "clinicId": "clinic5"
+    },
+    {
+      "id": "doctor2",
+      "firstName": "Dr. Noah",
+      "lastName": "Anderson",
+      "gender": "Female",
+      "specialty": "Cardiologist",
+      "phone": "+44 243971 630464",
+      "email": "dr. noah.anderson@example.com",
+      "clinicId": "clinic14"
+    },
+    {
+      "id": "doctor3",
+      "firstName": "Dr. Mia",
+      "lastName": "Hall",
+      "gender": "Female",
+      "specialty": "Dentist",
+      "phone": "+44 598840 364253",
+      "email": "dr. mia.hall@example.com",
+      "clinicId": "clinic12"
+    },
+    {
+      "id": "doctor4",
+      "firstName": "Dr. Noah",
+      "lastName": "Garcia",
+      "gender": "Male",
+      "specialty": "Gynecologist",
+      "phone": "+44 570401 493489",
+      "email": "dr. noah.garcia@example.com",
+      "clinicId": "clinic16"
+    },
+    {
+      "id": "doctor5",
+      "firstName": "Dr. Noah",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "Pediatrician",
+      "phone": "+44 209102 138029",
+      "email": "dr. noah.brown@example.com",
+      "clinicId": "clinic17"
+    },
+    {
+      "id": "doctor6",
+      "firstName": "Dr. Sophia",
+      "lastName": "Davis",
+      "gender": "Female",
+      "specialty": "Oncologist",
+      "phone": "+44 654519 417141",
+      "email": "dr. sophia.davis@example.com",
+      "clinicId": "clinic17"
+    },
+    {
+      "id": "doctor7",
+      "firstName": "Dr. Oliver",
+      "lastName": "Hall",
+      "gender": "Male",
+      "specialty": "Rheumatologist",
+      "phone": "+44 740466 480766",
+      "email": "dr. oliver.hall@example.com",
+      "clinicId": "clinic12"
+    },
+    {
+      "id": "doctor8",
+      "firstName": "Dr. Noah",
+      "lastName": "Brown",
+      "gender": "Female",
+      "specialty": "Orthopedic Surgeon",
+      "phone": "+44 232653 969816",
+      "email": "dr. noah.brown@example.com",
+      "clinicId": "clinic16"
+    },
+    {
+      "id": "doctor9",
+      "firstName": "Dr. Oliver",
+      "lastName": "Brown",
+      "gender": "Male",
+      "specialty": "ENT Specialist",
+      "phone": "+44 912745 308471",
+      "email": "dr. oliver.brown@example.com",
+      "clinicId": "clinic9"
+    },
+    {
+      "id": "doctor10",
+      "firstName": "Dr. Mia",
+      "lastName": "Anderson",
+      "gender": "Male",
+      "specialty": "General Practitioner",
+      "phone": "+44 221164 720388",
+      "email": "dr. mia.anderson@example.com",
+      "clinicId": "clinic18"
+    }
+  ]
+}

@@ -1,0 +1,964 @@
+{
+  "clinics": [
+    {
+      "id": "clinic1",
+      "name": "Brooks Ltd Clinic",
+      "address": "71 Suarez Street",
+      "city": "South Aaronmouth",
+      "postcode": "CT9 4TF",
+      "phone": "(0306) 999 0664"
+    },
+    {
+      "id": "clinic2",
+      "name": "Watkins-Ross Clinic",
+      "address": "62 Howard Street",
+      "city": "West Melissatown",
+      "postcode": "OX89 1GD",
+      "phone": "+44(0)151 496 0395"
+    },
+    {
+      "id": "clinic3",
+      "name": "Scott, Wright and Nash Clinic",
+      "address": "20 Howell Street",
+      "city": "South Janicemouth",
+      "postcode": "M5 0WS",
+      "phone": "+441914960714"
+    },
+    {
+      "id": "clinic4",
+      "name": "Burgess and Sons Clinic",
+      "address": "80 Stuart Street",
+      "city": "Port Teresa",
+      "postcode": "DG78 6GW",
+      "phone": "+441174960994"
+    },
+    {
+      "id": "clinic5",
+      "name": "Young-Hunt Clinic",
+      "address": "25 Davis Street",
+      "city": "East Danielle",
+      "postcode": "OX6 1SN",
+      "phone": "+441154960669"
+    },
+    {
+      "id": "clinic6",
+      "name": "Kelly Inc Clinic",
+      "address": "28 Day Street",
+      "city": "Fletcherfurt",
+      "postcode": "TQ2 2TZ",
+      "phone": "0306 999 0709"
+    },
+    {
+      "id": "clinic7",
+      "name": "Anderson-Tomlinson Clinic",
+      "address": "30 Nunez Street",
+      "city": "Hughton",
+      "postcode": "CW7W 5DW",
+      "phone": "(0808) 157 0321"
+    },
+    {
+      "id": "clinic8",
+      "name": "Williams-Simpson Clinic",
+      "address": "55 Gonzalez Street",
+      "city": "Derekmouth",
+      "postcode": "SO5 8UY",
+      "phone": "+44(0)113 496 0517"
+    },
+    {
+      "id": "clinic9",
+      "name": "Smith, Harris and Anderson Clinic",
+      "address": "71 Wells Street",
+      "city": "West Janicehaven",
+      "postcode": "L3 3ND",
+      "phone": "+44(0)292018480"
+    },
+    {
+      "id": "clinic10",
+      "name": "George Group Clinic",
+      "address": "14 Brown Street",
+      "city": "Thomastown",
+      "postcode": "B8 2TX",
+      "phone": "+44151 4960802"
+    },
+    {
+      "id": "clinic11",
+      "name": "Allen-Cross Clinic",
+      "address": "29 Smith Street",
+      "city": "Traceybury",
+      "postcode": "LA65 1TS",
+      "phone": "0141 4960936"
+    },
+    {
+      "id": "clinic12",
+      "name": "Walker Group Clinic",
+      "address": "18 Jackson Street",
+      "city": "Anthonyborough",
+      "postcode": "G0 9TT",
+      "phone": "+44909 8790834"
+    },
+    {
+      "id": "clinic13",
+      "name": "Carter LLC Clinic",
+      "address": "74 Shelton Street",
+      "city": "Warnerstad",
+      "postcode": "UB8P 8QR",
+      "phone": "+44121 496 0268"
+    },
+    {
+      "id": "clinic14",
+      "name": "Murphy LLC Clinic",
+      "address": "79 Cortez Street",
+      "city": "Rileyberg",
+      "postcode": "DN5Y 9XH",
+      "phone": "+44117 496 0394"
+    },
+    {
+      "id": "clinic15",
+      "name": "Coleman PLC Clinic",
+      "address": "18 Williamson Street",
+      "city": "Brucefort",
+      "postcode": "CF8 5TJ",
+      "phone": "+44292018034"
+    },
+    {
+      "id": "clinic16",
+      "name": "Marshall-Clark Clinic",
+      "address": "98 Wood Street",
+      "city": "Port Geoffrey",
+      "postcode": "E4 2AZ",
+      "phone": "01134960848"
+    },
+    {
+      "id": "clinic17",
+      "name": "Watson-White Clinic",
+      "address": "42 Hill Street",
+      "city": "Maureenmouth",
+      "postcode": "S8J 0RY",
+      "phone": "(0909) 879 0308"
+    },
+    {
+      "id": "clinic18",
+      "name": "Evans-Welch Clinic",
+      "address": "26 Wilson Street",
+      "city": "Anthonyberg",
+      "postcode": "M36 4ZA",
+      "phone": "+44(0)28 9018385"
+    },
+    {
+      "id": "clinic19",
+      "name": "Murray, Adams and Collier Clinic",
+      "address": "60 Andrews Street",
+      "city": "Deborahburgh",
+      "postcode": "IV23 9TX",
+      "phone": "01154960552"
+    },
+    {
+      "id": "clinic20",
+      "name": "Reed-King Clinic",
+      "address": "56 Johnson Street",
+      "city": "West Kimchester",
+      "postcode": "M3J 0JS",
+      "phone": "01154960053"
+    },
+    {
+      "id": "clinic21",
+      "name": "Osborne, Rose and O'Brien Clinic",
+      "address": "77 Patel Street",
+      "city": "Staceyville",
+      "postcode": "N4 4DN",
+      "phone": "(0118) 496 0254"
+    },
+    {
+      "id": "clinic22",
+      "name": "French-Lewis Clinic",
+      "address": "31 Smith Street",
+      "city": "Port Rosemarymouth",
+      "postcode": "G6 5TH",
+      "phone": "0116 4960646"
+    },
+    {
+      "id": "clinic23",
+      "name": "Chambers-Green Clinic",
+      "address": "60 Ross Street",
+      "city": "North Liam",
+      "postcode": "E1 1WW",
+      "phone": "(0118) 4960840"
+    },
+    {
+      "id": "clinic24",
+      "name": "Evans-Edwards Clinic",
+      "address": "34 Hamilton Street",
+      "city": "Geraldfort",
+      "postcode": "L4 3DZ",
+      "phone": "(020) 7496 0985"
+    },
+    {
+      "id": "clinic25",
+      "name": "Barber, Brown and Townsend Clinic",
+      "address": "18 Miller Street",
+      "city": "Janetmouth",
+      "postcode": "UB97 2JY",
+      "phone": "+44(0)116 4960072"
+    },
+    {
+      "id": "clinic26",
+      "name": "Hall Ltd Clinic",
+      "address": "07 Bentley Street",
+      "city": "New Josephine",
+      "postcode": "L3 5LQ",
+      "phone": "+44(0)20 74960354"
+    },
+    {
+      "id": "clinic27",
+      "name": "Miller-Berry Clinic",
+      "address": "17 Brewer Street",
+      "city": "Sandrachester",
+      "postcode": "ST12 6JZ",
+      "phone": "+441174960760"
+    },
+    {
+      "id": "clinic28",
+      "name": "Rowley, Reeves and Robinson Clinic",
+      "address": "85 Jackson Street",
+      "city": "New Carole",
+      "postcode": "TR96 9ZL",
+      "phone": "+44121 496 0266"
+    },
+    {
+      "id": "clinic29",
+      "name": "Simmons, Johnson and Lee Clinic",
+      "address": "38 Dougherty Street",
+      "city": "Begumport",
+      "postcode": "IV4P 5UX",
+      "phone": "+44(0)292018759"
+    },
+    {
+      "id": "clinic30",
+      "name": "Lowe-Osborne Clinic",
+      "address": "23 Anderson Street",
+      "city": "East Amyside",
+      "postcode": "S05 3TH",
+      "phone": "+44(0)161 4960693"
+    },
+    {
+      "id": "clinic31",
+      "name": "Jones Ltd Clinic",
+      "address": "33 Little Street",
+      "city": "Lake Jeremyport",
+      "postcode": "S7 9XW",
+      "phone": "(0116)4960622"
+    },
+    {
+      "id": "clinic32",
+      "name": "West, Steele and Finch Clinic",
+      "address": "45 Marshall Street",
+      "city": "East Damian",
+      "postcode": "WN0V 5WR",
+      "phone": "+4428 9018 0677"
+    },
+    {
+      "id": "clinic33",
+      "name": "Reynolds, Holmes and Moore Clinic",
+      "address": "71 Beltran Street",
+      "city": "Port Stanley",
+      "postcode": "HD0P 9JB",
+      "phone": "+44(0)909 8790134"
+    },
+    {
+      "id": "clinic34",
+      "name": "Turner Ltd Clinic",
+      "address": "75 King Street",
+      "city": "Joelshire",
+      "postcode": "W8U 3JB",
+      "phone": "+44289018129"
+    },
+    {
+      "id": "clinic35",
+      "name": "Armstrong-Morris Clinic",
+      "address": "02 Pruitt Street",
+      "city": "Port Stephanie",
+      "postcode": "HA58 9XY",
+      "phone": "(0113)4960491"
+    },
+    {
+      "id": "clinic36",
+      "name": "Chandler-Smith Clinic",
+      "address": "54 Rowe Street",
+      "city": "West Lesleyland",
+      "postcode": "DE0B 6FN",
+      "phone": "0116 496 0226"
+    },
+    {
+      "id": "clinic37",
+      "name": "Begum, Martin and Lewis Clinic",
+      "address": "87 Cummings Street",
+      "city": "Cameronview",
+      "postcode": "SW5B 0FU",
+      "phone": "+44(0)161 496 0490"
+    },
+    {
+      "id": "clinic38",
+      "name": "Watson, Jones and Chan Clinic",
+      "address": "24 Ashley Street",
+      "city": "Alanmouth",
+      "postcode": "S0 0WD",
+      "phone": "+44121 4960963"
+    },
+    {
+      "id": "clinic39",
+      "name": "Brown-Owen Clinic",
+      "address": "02 Collins Street",
+      "city": "New Leslie",
+      "postcode": "KA4W 0FP",
+      "phone": "01632 960068"
+    },
+    {
+      "id": "clinic40",
+      "name": "Warner, Evans and Wilson Clinic",
+      "address": "12 Rice Street",
+      "city": "West Paigeborough",
+      "postcode": "SN01 7FJ",
+      "phone": "+44289018663"
+    },
+    {
+      "id": "clinic41",
+      "name": "Nelson-Hanson Clinic",
+      "address": "61 Thomas Street",
+      "city": "Jenkinstown",
+      "postcode": "N82 1EA",
+      "phone": "+44(0)1914960286"
+    },
+    {
+      "id": "clinic42",
+      "name": "Williams Inc Clinic",
+      "address": "60 Atkinson Street",
+      "city": "East Abigail",
+      "postcode": "AB2B 1PF",
+      "phone": "+44141 4960330"
+    },
+    {
+      "id": "clinic43",
+      "name": "Reynolds Inc Clinic",
+      "address": "60 Powell Street",
+      "city": "Jordanhaven",
+      "postcode": "M3 2LE",
+      "phone": "(0808) 157 0064"
+    },
+    {
+      "id": "clinic44",
+      "name": "Jones and Sons Clinic",
+      "address": "82 Barnett Street",
+      "city": "Paulstad",
+      "postcode": "M04 5ZB",
+      "phone": "0141 496 0446"
+    },
+    {
+      "id": "clinic45",
+      "name": "Cole-Harding Clinic",
+      "address": "93 Simpson Street",
+      "city": "Williamsmouth",
+      "postcode": "L8 1GZ",
+      "phone": "(0909)8790198"
+    },
+    {
+      "id": "clinic46",
+      "name": "Ward-James Clinic",
+      "address": "57 Terry Street",
+      "city": "Kimberleystad",
+      "postcode": "PL04 3SZ",
+      "phone": "(028) 9018 0391"
+    },
+    {
+      "id": "clinic47",
+      "name": "Humphreys-Fisher Clinic",
+      "address": "12 Watson Street",
+      "city": "Amelialand",
+      "postcode": "E1 4YS",
+      "phone": "0116 496 0704"
+    },
+    {
+      "id": "clinic48",
+      "name": "Evans-Saunders Clinic",
+      "address": "77 Turner Street",
+      "city": "North Jill",
+      "postcode": "SN1P 3EU",
+      "phone": "(0161) 4960883"
+    },
+    {
+      "id": "clinic49",
+      "name": "Parkes-Johnston Clinic",
+      "address": "23 Parsons Street",
+      "city": "South Eileen",
+      "postcode": "M98 3XY",
+      "phone": "+44(0)2074960671"
+    },
+    {
+      "id": "clinic50",
+      "name": "Roberts, Moore and Robinson Clinic",
+      "address": "78 Williams Street",
+      "city": "South Emmabury",
+      "postcode": "S01 7XE",
+      "phone": "0292018390"
+    },
+    {
+      "id": "clinic51",
+      "name": "Herbert, Jones and Lewis Clinic",
+      "address": "81 Watts Street",
+      "city": "South Kenneth",
+      "postcode": "MK9N 5GU",
+      "phone": "(020) 7496 0825"
+    },
+    {
+      "id": "clinic52",
+      "name": "Booth Group Clinic",
+      "address": "88 Charles Street",
+      "city": "Walshberg",
+      "postcode": "SW0E 7TD",
+      "phone": "+44(0)115 496 0362"
+    },
+    {
+      "id": "clinic53",
+      "name": "Cook, Robinson and Bruce Clinic",
+      "address": "25 Prince Street",
+      "city": "Port Samuelfort",
+      "postcode": "S9 4AX",
+      "phone": "+44118 496 0029"
+    },
+    {
+      "id": "clinic54",
+      "name": "Kelly-Saunders Clinic",
+      "address": "83 Johnson Street",
+      "city": "New Mauriceland",
+      "postcode": "TW6H 9PN",
+      "phone": "+44(0)3069990438"
+    },
+    {
+      "id": "clinic55",
+      "name": "Matthews, Carr and Daniels Clinic",
+      "address": "67 Massey Street",
+      "city": "Lake Louisfort",
+      "postcode": "YO4 8PG",
+      "phone": "+44(0)1144960346"
+    },
+    {
+      "id": "clinic56",
+      "name": "Smith-Newton Clinic",
+      "address": "21 Ellis Street",
+      "city": "North Bethan",
+      "postcode": "E23 1YZ",
+      "phone": "+4420 74960561"
+    },
+    {
+      "id": "clinic57",
+      "name": "Wright, Cook and Smith Clinic",
+      "address": "00 Jensen Street",
+      "city": "Antonyburgh",
+      "postcode": "SW2N 9QJ",
+      "phone": "+44114 4960305"
+    },
+    {
+      "id": "clinic58",
+      "name": "Yates, Holland and Morton Clinic",
+      "address": "95 Mann Street",
+      "city": "New Jeremy",
+      "postcode": "G7A 2GX",
+      "phone": "0116 496 0419"
+    },
+    {
+      "id": "clinic59",
+      "name": "Hancock PLC Clinic",
+      "address": "70 Ruiz Street",
+      "city": "New Williamville",
+      "postcode": "L9K 8XT",
+      "phone": "+441184960743"
+    },
+    {
+      "id": "clinic60",
+      "name": "White LLC Clinic",
+      "address": "74 Jones Street",
+      "city": "North Megan",
+      "postcode": "L1D 5SN",
+      "phone": "0116 4960071"
+    },
+    {
+      "id": "clinic61",
+      "name": "Vaughan LLC Clinic",
+      "address": "61 Kennedy Street",
+      "city": "New Brianton",
+      "postcode": "N5 9WJ",
+      "phone": "+44(0)292018651"
+    },
+    {
+      "id": "clinic62",
+      "name": "Jackson-Hunter Clinic",
+      "address": "41 Blackburn Street",
+      "city": "Judithhaven",
+      "postcode": "N0 0XX",
+      "phone": "+44(0)1154960203"
+    },
+    {
+      "id": "clinic63",
+      "name": "Skinner-Pratt Clinic",
+      "address": "42 Webster Street",
+      "city": "North David",
+      "postcode": "LS00 8DW",
+      "phone": "0909 879 0624"
+    },
+    {
+      "id": "clinic64",
+      "name": "Brown, Nicholls and Tyler Clinic",
+      "address": "14 Adams Street",
+      "city": "Port Marcmouth",
+      "postcode": "N8 4NE",
+      "phone": "+44(0)29 2018262"
+    },
+    {
+      "id": "clinic65",
+      "name": "Watson, Read and Clarke Clinic",
+      "address": "17 Frazier Street",
+      "city": "Walshberg",
+      "postcode": "G98 5XL",
+      "phone": "(028)9018888"
+    },
+    {
+      "id": "clinic66",
+      "name": "Stevens and Sons Clinic",
+      "address": "62 Hutchinson Street",
+      "city": "North Gavin",
+      "postcode": "N4B 2LF",
+      "phone": "+44(0)909 879 0041"
+    },
+    {
+      "id": "clinic67",
+      "name": "Turner, Newman and Harris Clinic",
+      "address": "64 Webb Street",
+      "city": "Watsonside",
+      "postcode": "TN6R 6PX",
+      "phone": "+441914960028"
+    },
+    {
+      "id": "clinic68",
+      "name": "Walters Group Clinic",
+      "address": "38 Palmer Street",
+      "city": "Adrianchester",
+      "postcode": "G9D 5PA",
+      "phone": "+441184960512"
+    },
+    {
+      "id": "clinic69",
+      "name": "Fox, Moran and Reeves Clinic",
+      "address": "57 Marsh Street",
+      "city": "North Elliotfurt",
+      "postcode": "RH8Y 1QY",
+      "phone": "(01632) 960985"
+    },
+    {
+      "id": "clinic70",
+      "name": "Hall, O'Neill and Lees Clinic",
+      "address": "89 Miller Street",
+      "city": "West Owen",
+      "postcode": "N0S 9FR",
+      "phone": "09098790490"
+    },
+    {
+      "id": "clinic71",
+      "name": "Payne-Lewis Clinic",
+      "address": "93 Hamilton Street",
+      "city": "Lake Melaniemouth",
+      "postcode": "BD3 8DW",
+      "phone": "+44121 4960396"
+    },
+    {
+      "id": "clinic72",
+      "name": "Harris LLC Clinic",
+      "address": "65 Morrison Street",
+      "city": "Garyville",
+      "postcode": "S7 8UZ",
+      "phone": "(0151) 4960212"
+    },
+    {
+      "id": "clinic73",
+      "name": "Norris-Graham Clinic",
+      "address": "47 Thompson Street",
+      "city": "Dianahaven",
+      "postcode": "HU01 7PD",
+      "phone": "01164960751"
+    },
+    {
+      "id": "clinic74",
+      "name": "Patel-Patterson Clinic",
+      "address": "77 Chen Street",
+      "city": "East Jonathan",
+      "postcode": "G0W 1GN",
+      "phone": "(0191)4960707"
+    },
+    {
+      "id": "clinic75",
+      "name": "Walker, Jones and Hobbs Clinic",
+      "address": "70 Richardson Street",
+      "city": "Cookborough",
+      "postcode": "S59 9WG",
+      "phone": "+44113 496 0366"
+    },
+    {
+      "id": "clinic76",
+      "name": "Barnes, Jones and Gardiner Clinic",
+      "address": "90 Hernandez Street",
+      "city": "New Phillipfurt",
+      "postcode": "WN1H 0HN",
+      "phone": "(0161)4960551"
+    },
+    {
+      "id": "clinic77",
+      "name": "Begum LLC Clinic",
+      "address": "53 Hammond Street",
+      "city": "Fergusonside",
+      "postcode": "W4 3ZD",
+      "phone": "0114 4960986"
+    },
+    {
+      "id": "clinic78",
+      "name": "Taylor LLC Clinic",
+      "address": "45 Taylor Street",
+      "city": "Angelafort",
+      "postcode": "S81 3FD",
+      "phone": "(0117) 496 0815"
+    },
+    {
+      "id": "clinic79",
+      "name": "Allen, Hill and Davies Clinic",
+      "address": "85 Valencia Street",
+      "city": "Walshstad",
+      "postcode": "B0S 9PJ",
+      "phone": "(0116)4960778"
+    },
+    {
+      "id": "clinic80",
+      "name": "Khan-Frost Clinic",
+      "address": "47 Carpenter Street",
+      "city": "Lake Bethan",
+      "postcode": "SL4N 7PU",
+      "phone": "+44(0)118 4960074"
+    },
+    {
+      "id": "clinic81",
+      "name": "Smith Inc Clinic",
+      "address": "72 Aguilar Street",
+      "city": "New Raymond",
+      "postcode": "E6 5TY",
+      "phone": "+44117 4960854"
+    },
+    {
+      "id": "clinic82",
+      "name": "Austin LLC Clinic",
+      "address": "43 Campbell Street",
+      "city": "New Ben",
+      "postcode": "TW6 3JB",
+      "phone": "(0306)9990579"
+    },
+    {
+      "id": "clinic83",
+      "name": "Harrison, Jenkins and Hughes Clinic",
+      "address": "98 Hicks Street",
+      "city": "West Paula",
+      "postcode": "E29 2QB",
+      "phone": "0121 4960661"
+    },
+    {
+      "id": "clinic84",
+      "name": "Bull, Ellis and Watkins Clinic",
+      "address": "84 Harrell Street",
+      "city": "West Karl",
+      "postcode": "KW24 3PS",
+      "phone": "+44(0)131 4960345"
+    },
+    {
+      "id": "clinic85",
+      "name": "Frost, Harrison and Ashton Clinic",
+      "address": "38 Ellison Street",
+      "city": "North Valeriestad",
+      "postcode": "KW48 8NH",
+      "phone": "+441144960335"
+    },
+    {
+      "id": "clinic86",
+      "name": "Day Inc Clinic",
+      "address": "10 Phillips Street",
+      "city": "Graemefurt",
+      "postcode": "G75 8WT",
+      "phone": "+44(0)1174960377"
+    },
+    {
+      "id": "clinic87",
+      "name": "Walker-Law Clinic",
+      "address": "72 Lopez Street",
+      "city": "South Jack",
+      "postcode": "M0U 7RA",
+      "phone": "(028) 9018 0606"
+    },
+    {
+      "id": "clinic88",
+      "name": "Brady Inc Clinic",
+      "address": "32 Combs Street",
+      "city": "East Kieranberg",
+      "postcode": "DG09 8NX",
+      "phone": "0116 4960557"
+    },
+    {
+      "id": "clinic89",
+      "name": "Taylor, Murray and Burgess Clinic",
+      "address": "44 Rhodes Street",
+      "city": "Lake Abdul",
+      "postcode": "FY4 8JH",
+      "phone": "(0115)4960945"
+    },
+    {
+      "id": "clinic90",
+      "name": "Davis-Walton Clinic",
+      "address": "04 Rodriguez Street",
+      "city": "Butlermouth",
+      "postcode": "L3 6WE",
+      "phone": "+44191 496 0987"
+    },
+    {
+      "id": "clinic91",
+      "name": "Pickering-Houghton Clinic",
+      "address": "97 Jones Street",
+      "city": "New Connorchester",
+      "postcode": "N87 5SX",
+      "phone": "+44(0)151 496 0624"
+    },
+    {
+      "id": "clinic92",
+      "name": "Thomas-Simpson Clinic",
+      "address": "71 Dyer Street",
+      "city": "East Abbie",
+      "postcode": "M9S 2ZS",
+      "phone": "+4429 2018931"
+    },
+    {
+      "id": "clinic93",
+      "name": "Knight and Sons Clinic",
+      "address": "27 Jimenez Street",
+      "city": "Taylortown",
+      "postcode": "E2 1WB",
+      "phone": "+44(0)161 496 0287"
+    },
+    {
+      "id": "clinic94",
+      "name": "Hawkins, Walton and Robson Clinic",
+      "address": "79 Mercer Street",
+      "city": "East Paul",
+      "postcode": "WF3 2UR",
+      "phone": "+441914960966"
+    },
+    {
+      "id": "clinic95",
+      "name": "Parkinson-White Clinic",
+      "address": "02 Gutierrez Street",
+      "city": "New Reece",
+      "postcode": "NG5B 2FR",
+      "phone": "+441314960540"
+    },
+    {
+      "id": "clinic96",
+      "name": "Hall-McDonald Clinic",
+      "address": "50 Harrison Street",
+      "city": "West Elainechester",
+      "postcode": "TF49 9XN",
+      "phone": "(0116)4960972"
+    },
+    {
+      "id": "clinic97",
+      "name": "Owens, Davies and Smith Clinic",
+      "address": "78 Adams Street",
+      "city": "Fosterstad",
+      "postcode": "B8A 7NX",
+      "phone": "(0306) 9990429"
+    },
+    {
+      "id": "clinic98",
+      "name": "Archer, Davies and Miller Clinic",
+      "address": "60 Harris Street",
+      "city": "Colinmouth",
+      "postcode": "W95 6SF",
+      "phone": "0131 496 0781"
+    },
+    {
+      "id": "clinic99",
+      "name": "Wilson LLC Clinic",
+      "address": "22 Hayes Street",
+      "city": "West Scott",
+      "postcode": "TN9 6RF",
+      "phone": "+44909 8790389"
+    },
+    {
+      "id": "clinic100",
+      "name": "Ward PLC Clinic",
+      "address": "77 Bruce Street",
+      "city": "North Ashley",
+      "postcode": "W66 3PF",
+      "phone": "+44(0)121 4960075"
+    },
+    {
+      "id": "clinic101",
+      "name": "Evans-Jones Clinic",
+      "address": "00 Andersen Street",
+      "city": "East Matthewfort",
+      "postcode": "OX19 8RU",
+      "phone": "(028) 9018 0310"
+    },
+    {
+      "id": "clinic102",
+      "name": "Wilson, Phillips and Edwards Clinic",
+      "address": "52 Murray Street",
+      "city": "Lake Joe",
+      "postcode": "N6A 5TB",
+      "phone": "0808 157 0124"
+    },
+    {
+      "id": "clinic103",
+      "name": "Wood-Harris Clinic",
+      "address": "42 Phillips Street",
+      "city": "West Stevenmouth",
+      "postcode": "WS63 8UE",
+      "phone": "+44(0)115 496 0398"
+    },
+    {
+      "id": "clinic104",
+      "name": "Price, Webster and Collins Clinic",
+      "address": "79 Johnson Street",
+      "city": "Stevenborough",
+      "postcode": "BA5 9PW",
+      "phone": "0116 4960709"
+    },
+    {
+      "id": "clinic105",
+      "name": "Bond-Sanderson Clinic",
+      "address": "43 Rocha Street",
+      "city": "East Tobyburgh",
+      "postcode": "FK5E 1XW",
+      "phone": "(020) 74960839"
+    },
+    {
+      "id": "clinic106",
+      "name": "Ferguson, Evans and Morley Clinic",
+      "address": "88 Perry Street",
+      "city": "East Nicole",
+      "postcode": "G6F 3XZ",
+      "phone": "(0306) 999 0995"
+    },
+    {
+      "id": "clinic107",
+      "name": "Pritchard-Hewitt Clinic",
+      "address": "13 Martinez Street",
+      "city": "New Teresaland",
+      "postcode": "SR8 9GU",
+      "phone": "(0118)4960857"
+    },
+    {
+      "id": "clinic108",
+      "name": "Williams-Wheeler Clinic",
+      "address": "49 Daugherty Street",
+      "city": "West Jayneburgh",
+      "postcode": "LL1 3AX",
+      "phone": "+4420 7496 0608"
+    },
+    {
+      "id": "clinic109",
+      "name": "Jones, Metcalfe and Bennett Clinic",
+      "address": "26 Cannon Street",
+      "city": "Louisebury",
+      "postcode": "W4S 4WS",
+      "phone": "+441214960922"
+    },
+    {
+      "id": "clinic110",
+      "name": "Rose-Reid Clinic",
+      "address": "42 Rubio Street",
+      "city": "West Simonberg",
+      "postcode": "E7 3UU",
+      "phone": "+44(0)1632 960672"
+    },
+    {
+      "id": "clinic111",
+      "name": "Reid-Dunn Clinic",
+      "address": "90 Mcclure Street",
+      "city": "Cooperside",
+      "postcode": "B70 9GX",
+      "phone": "+44(0)1144960321"
+    },
+    {
+      "id": "clinic112",
+      "name": "Adams LLC Clinic",
+      "address": "36 Boyd Street",
+      "city": "Fitzgeraldstad",
+      "postcode": "JE90 9YX",
+      "phone": "029 2018 0207"
+    },
+    {
+      "id": "clinic113",
+      "name": "Dixon-Thompson Clinic",
+      "address": "10 Lewis Street",
+      "city": "East Nigel",
+      "postcode": "M18 3AB",
+      "phone": "0131 496 0581"
+    },
+    {
+      "id": "clinic114",
+      "name": "John-Roberts Clinic",
+      "address": "24 Grant Street",
+      "city": "Abbiefurt",
+      "postcode": "ME59 1SF",
+      "phone": "(0306) 999 0087"
+    },
+    {
+      "id": "clinic115",
+      "name": "Hall LLC Clinic",
+      "address": "76 Becker Street",
+      "city": "Sophiemouth",
+      "postcode": "LE9X 6PS",
+      "phone": "+44(0)29 2018 0206"
+    },
+    {
+      "id": "clinic116",
+      "name": "Freeman-Day Clinic",
+      "address": "39 Jacobs Street",
+      "city": "Edwardschester",
+      "postcode": "B5 3NT",
+      "phone": "+44114 4960849"
+    },
+    {
+      "id": "clinic117",
+      "name": "Moran LLC Clinic",
+      "address": "30 Lopez Street",
+      "city": "Port Beverleyfurt",
+      "postcode": "E4 3NX",
+      "phone": "+441632 960 839"
+    },
+    {
+      "id": "clinic118",
+      "name": "Kemp, Edwards and Waters Clinic",
+      "address": "83 Hebert Street",
+      "city": "Turnerhaven",
+      "postcode": "RM89 4JS",
+      "phone": "+44(0)131 496 0891"
+    },
+    {
+      "id": "clinic119",
+      "name": "Newman-Mills Clinic",
+      "address": "25 Banks Street",
+      "city": "Terryshire",
+      "postcode": "E8 4NR",
+      "phone": "+44(0)161 496 0491"
+    },
+    {
+      "id": "clinic120",
+      "name": "Blake-Allen Clinic",
+      "address": "72 Martin Street",
+      "city": "Jackchester",
+      "postcode": "N2D 4ZQ",
+      "phone": "(0117)4960766"
+    }
+  ]
+}

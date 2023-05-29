@@ -1,0 +1,42 @@
+.near-appointment {
+    /* Add your custom styling for near appointments */
+    background-color: #ffdddd;
+    border-bottom: 1px solid #ff0000!important;
+    position: relative;
+  }
+  
+  .near-appointment::before {
+    content: "READY";
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50px;
+    height: 12px;
+    background-color: red;
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    line-height: 10px;
+  }
+
+  .pending-appointment {
+    /* Add your custom styling for pending appointments */
+    background-color: #ffffdd;
+    border-bottom: 1px solid #ffff00!important;
+    position: relative;
+  }
+
+    .pending-appointment::before {
+        content: "PENDING";
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 50px;
+        height: 12px;
+        background-color: yellow;
+        color: black;
+        font-size: 10px;
+        text-align: center;
+        line-height: 10px;
+    }
+  

@@ -1,0 +1,165 @@
+{
+    "clinics": [
+      {
+        "id": "clinic1",
+        "name": "London Medical Centre",
+        "address": "123 Oxford Street, London",
+        "city": "London",
+        "postcode": "SW1A 1AA",
+        "phone": "+44 20 1234 5678"
+      },
+      {
+        "id": "clinic2",
+        "name": "Manchester Clinic",
+        "address": "456 Elm Street, Manchester",
+        "city": "Manchester",
+        "postcode": "M1 1AA",
+        "phone": "+44 161 9876 5432"
+      },
+      {
+        "id": "clinic3",
+        "name": "Birmingham Medical Centre",
+        "address": "789 High Street, Birmingham",
+        "city": "Birmingham",
+        "postcode": "B1 1AA",
+        "phone": "+44 121 6543 7890"
+      },
+      {
+        "id": "clinic4",
+        "name": "Edinburgh Health Clinic",
+        "address": "321 Queen's Road, Edinburgh",
+        "city": "Edinburgh",
+        "postcode": "EH1 1AA",
+        "phone": "+44 131 2345 6789"
+      },
+      {
+        "id": "clinic5",
+        "name": "Glasgow Medical Centre",
+        "address": "567 Main Street, Glasgow",
+        "city": "Glasgow",
+        "postcode": "G1 1AA",
+        "phone": "+44 141 8765 4321"
+      },
+      {
+        "id": "clinic6",
+        "name": "Liverpool Health Clinic",
+        "address": "789 Park Avenue, Liverpool",
+        "city": "Liverpool",
+        "postcode": "L1 1AA",
+        "phone": "+44 151 5432 9876"
+      },
+      {
+        "id": "clinic7",
+        "name": "Leeds Medical Centre",
+        "address": "890 Elm Street, Leeds",
+        "city": "Leeds",
+        "postcode": "LS1 1AA",
+        "phone": "+44 113 7654 3210"
+      },
+      {
+        "id": "clinic8",
+        "name": "Sheffield Health Clinic",
+        "address": "123 Main Road, Sheffield",
+        "city": "Sheffield",
+        "postcode": "S1 1AA",
+        "phone": "+44 114 5678 9012"
+      },
+      {
+        "id": "clinic9",
+        "name": "Newcastle Medical Centre",
+        "address": "456 Park Lane, Newcastle",
+        "city": "Newcastle",
+        "postcode": "NE1 1AA",
+        "phone": "+44 191 8901 2345"
+      },
+      {
+        "id": "clinic10",
+        "name": "Bristol Health Clinic",
+        "address": "789 Elm Street, Bristol",
+        "city": "Bristol",
+        "postcode": "BS1 1AA",
+        "phone": "+44 117 6543 2109"
+      },
+      {
+        "id": "clinic11",
+        "name": "Cardiff Medical Centre",
+        "address": "321 Main Road, Cardiff",
+        "city": "Cardiff",
+        "postcode": "CF1 1AA",
+        "phone": "+44 29 8765 4321"
+      },
+      {
+        "id": "clinic12",
+        "name": "Leicester Health Clinic",
+        "address": "567 Park Avenue, Leicester",
+        "city": "Leicester",
+        "postcode": "LE1 1AA",
+        "phone": "+44 116 5432 1098"
+      },
+      {
+        "id": "clinic13",
+        "name": "Nottingham Medical Centre",
+        "address": "890 High Street, Nottingham",
+        "city": "Nottingham",
+        "postcode": "NG1 1AA",
+        "phone": "+44 115 8901 2345"
+      },
+      {
+        "id": "clinic14",
+        "name": "Southampton Health Clinic",
+        "address": "123 Elm Street, Southampton",
+        "city": "Southampton",
+        "postcode": "SO1 1AA",
+        "phone": "+44 23 4567 8901"
+      },
+      {
+        "id": "clinic15",
+        "name": "Oxford Medical Centre",
+        "address": "456 Main Road, Oxford",
+        "city": "Oxford",
+        "postcode": "OX1 1AA",
+        "phone": "+44 1865 1234 5678"
+      },
+      {
+        "id": "clinic16",
+        "name": "Cambridge Health Clinic",
+        "address": "789 Park Lane, Cambridge",
+        "city": "Cambridge",
+        "postcode": "CB1 1AA",
+        "phone": "+44 1223 9876 5432"
+      },
+      {
+        "id": "clinic17",
+        "name": "York Medical Centre",
+        "address": "321 High Street, York",
+        "city": "York",
+        "postcode": "YO1 1AA",
+        "phone": "+44 1904 6543 2109"
+      },
+      {
+        "id": "clinic18",
+        "name": "Reading Health Clinic",
+        "address": "567 Elm Street, Reading",
+        "city": "Reading",
+        "postcode": "RG1 1AA",
+        "phone": "+44 118 8765 4321"
+      },
+      {
+        "id": "clinic19",
+        "name": "Belfast Medical Centre",
+        "address": "789 Main Road, Belfast",
+        "city": "Belfast",
+        "postcode": "BT1 1AA",
+        "phone": "+44 28 1234 5678"
+      },
+      {
+        "id": "clinic20",
+        "name": "Dublin Health Clinic",
+        "address": "123 Park Avenue, Dublin",
+        "city": "Dublin",
+        "postcode": "D1 1AA",
+        "phone": "+353 1 9876 5432"
+      }
+    ]
+  }
+  

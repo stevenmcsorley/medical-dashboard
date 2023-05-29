@@ -1,0 +1,27 @@
+/* Button.module.css */
+
+.button {
+    font-family: var(--font-family);
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    display: inline-block;
+    padding: var(--spacing-m);
+    transition: background-color 0.3s ease;
+  }
+  
+  .buttonPrimary {
+    background-color: var(--color-green-default);
+    color: var(--color-neutral-white);
+  }
+  
+  .buttonSecondary {
+    background-color: var(--color-neutral-gray-lighter);
+    color: var(--color-neutral-black);
+  }
+  
+  .buttonDanger {
+    background-color: var(--color-red-dark);
+    color: var(--color-neutral-white);
+  }
+  
