@@ -100,3 +100,25 @@ To generate sample data for the medical dashboard, you can use the provided data
     - Copy the generated JSON file to the appropriate location for the backend to use.
 
 Make sure to update the generated JSON files for patients, clinics, doctors, and appointments to match the desired data for your medical dashboard.
+
+
+## Backend API
+
+The project also includes a simple backend API created with [Express.js](https://expressjs.com/) to serve the generated JSON data. Below are the available endpoints:
+
+### Endpoints
+
+- **GET /api/clinics**: This endpoint returns the data from the `clinics.json` file. 
+- **GET /api/appointments**: This endpoint returns the data from the `appointments.json` file.
+- **GET /api/doctors**: This endpoint returns the data from the `doctors.json` file.
+- **GET /api/patients**: This endpoint returns the data from the `patients.json` file.
+
+All endpoints are CORS-enabled for `http://localhost:3000`. 
+
+### Running the API
+
+The server runs on port 8000 and can be started with the following command:
+
+```shell
+node app.js
+
