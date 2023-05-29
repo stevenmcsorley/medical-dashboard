@@ -8,7 +8,7 @@ import os
 
 def generate_random_datetime(date):
     start_time = datetime.strptime(date + "T09:00:00Z", "%Y-%m-%dT%H:%M:%SZ")
-    end_time = datetime.strptime(date + "T18:00:00Z", "%Y-%m-%dT%H:%M:%SZ")
+    end_time = datetime.strptime(date + "T23:30:00Z", "%Y-%m-%dT%H:%M:%SZ")
     total_seconds = int((end_time - start_time).total_seconds())
     random_seconds = random.randrange(total_seconds)
     random_datetime = start_time + timedelta(seconds=random_seconds)
@@ -127,7 +127,7 @@ def write_to_json(data, filename):
 
 num_patients = 1000
 num_doctors = 250
-num_appointments = 1000
+num_appointments = 500
 num_clinics = 120
 data = generate_data(num_patients, num_doctors, num_appointments)
 write_to_json(data, "appointments.json")

@@ -2,6 +2,8 @@
 
 A medical dashboard for tracking patients, doctors, clinics, and appointments. This dashboard provides an overview of key metrics and visualizations to monitor the medical operations.
 
+![Screenshot](Screenshot%202023-05-29.png)
+
 ## Features
 
 - **Total Patients**: Displays the total number of patients in the system.
