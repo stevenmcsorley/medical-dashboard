@@ -9,7 +9,7 @@ import { FaUserInjured, FaUserMd, FaCalendarCheck, FaHeartbeat } from "react-ico
 const DashboardSection = () => {
     const [totalPatients, setTotalPatients] = useState(0);
     const [totalDoctors, setTotalDoctors] = useState(0);
-    const [totalAppointments, setTotalAppointments] = useState(0);
+    const [totalAppointments, setTotalAppointments] = useState("0 / 0");
   
     useEffect(() => {
       fetchTotalPatients();
@@ -54,7 +54,7 @@ const DashboardSection = () => {
       const filteredAppointments = data.appointments.filter(
         (appointment: { startTime: string | number | Date; }) => new Date(appointment.startTime) < currentTime
       );
-      setTotalAppointments(filteredAppointments.length);
+      setTotalAppointments(`${filteredAppointments.length} / ${data.appointments.length}`);
     };
   
     return (

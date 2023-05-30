@@ -7,8 +7,8 @@ import os
 
 
 def generate_random_datetime(date):
-    start_time = datetime.strptime(date + "T09:00:00Z", "%Y-%m-%dT%H:%M:%SZ")
-    end_time = datetime.strptime(date + "T23:30:00Z", "%Y-%m-%dT%H:%M:%SZ")
+    start_time = datetime.strptime(date + "T07:00:00Z", "%Y-%m-%dT%H:%M:%SZ")
+    end_time = datetime.strptime(date + "T22:00:00Z", "%Y-%m-%dT%H:%M:%SZ")
     total_seconds = int((end_time - start_time).total_seconds())
     random_seconds = random.randrange(total_seconds)
     random_datetime = start_time + timedelta(seconds=random_seconds)
@@ -52,7 +52,7 @@ def generate_appointments(num_patients, num_doctors, num_appointments):
     appointments = []
     start_date = datetime.strptime(
         "2023-05-29T09:00:00Z", "%Y-%m-%dT%H:%M:%SZ")
-    date = "2023-05-29"
+    date = "2023-05-30"
     for i in range(1, num_appointments + 1):
         appointment_id = f"appointment{i}"
         patient_id = random.choice(patients)
@@ -87,7 +87,9 @@ def generate_appointments(num_patients, num_doctors, num_appointments):
                 "York",
             ]
         )
-        status = "completed" if i <= num_appointments - 20 else "notCompleted"
+        percentage = 80  # Define the percentage threshold
+        threshold = num_appointments * (percentage / 100)
+        status = "completed" if i <= threshold else "notCompleted"
         reason = (
             random.choice(["Patient did not show up",
                           "Doctor unavailable", "Patient rescheduled"])
@@ -127,7 +129,7 @@ def write_to_json(data, filename):
 
 num_patients = 1000
 num_doctors = 250
-num_appointments = 500
+num_appointments = 873
 num_clinics = 120
 data = generate_data(num_patients, num_doctors, num_appointments)
 write_to_json(data, "appointments.json")
