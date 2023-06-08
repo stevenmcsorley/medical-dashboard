@@ -65,8 +65,8 @@ def write_to_json(data, filename):
     with open(filepath, "w") as f:
         json.dump(data, f, indent=2)
 
-num_doctors = 250
-num_clinics = 120
+num_doctors = 1000
+num_clinics = 1000
 
 data = generate_data(num_doctors, num_clinics)
 write_to_json(data, "doctors.json")

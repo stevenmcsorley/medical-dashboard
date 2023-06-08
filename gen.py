@@ -7,8 +7,8 @@ import os
 
 
 def generate_random_datetime(date):
-    start_time = datetime.strptime(date + "T07:00:00Z", "%Y-%m-%dT%H:%M:%SZ")
-    end_time = datetime.strptime(date + "T22:00:00Z", "%Y-%m-%dT%H:%M:%SZ")
+    start_time = datetime.strptime(date + "T06:00:00Z", "%Y-%m-%dT%H:%M:%SZ")
+    end_time = datetime.strptime(date + "T20:00:00Z", "%Y-%m-%dT%H:%M:%SZ")
     total_seconds = int((end_time - start_time).total_seconds())
     random_seconds = random.randrange(total_seconds)
     random_datetime = start_time + timedelta(seconds=random_seconds)
@@ -51,8 +51,8 @@ def generate_appointments(num_patients, num_doctors, num_appointments):
     # Generate appointments data
     appointments = []
     start_date = datetime.strptime(
-        "2023-05-29T09:00:00Z", "%Y-%m-%dT%H:%M:%SZ")
-    date = "2023-05-30"
+        "2023-06-02T07:00:00Z", "%Y-%m-%dT%H:%M:%SZ")
+    date = "2023-06-02"
     for i in range(1, num_appointments + 1):
         appointment_id = f"appointment{i}"
         patient_id = random.choice(patients)
@@ -128,8 +128,8 @@ def write_to_json(data, filename):
         json.dump(data, f, indent=2)
 
 num_patients = 1000
-num_doctors = 250
-num_appointments = 873
-num_clinics = 120
+num_doctors = 1000
+num_appointments = 1000
+num_clinics = 1000
 data = generate_data(num_patients, num_doctors, num_appointments)
 write_to_json(data, "appointments.json")
